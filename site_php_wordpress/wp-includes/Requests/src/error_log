@@ -1,0 +1,4 @@
+[16-Jan-2024 07:28:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\HookManager' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/Requests/src/Hooks.php on line 19

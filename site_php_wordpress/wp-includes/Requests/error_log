@@ -1,0 +1,4 @@
+[02-Apr-2023 10:39:17 UTC] PHP Fatal error:  Uncaught Error: Interface 'Requests_Hooker' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/Requests/Hooks.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/Requests/Hooks.php on line 15

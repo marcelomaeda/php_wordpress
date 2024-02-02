@@ -1,0 +1,1435 @@
+# Translation of Plugins - Cookie Notice &amp; Compliance for GDPR / CCPA - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Cookie Notice &amp; Compliance for GDPR / CCPA - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-01-21 11:54:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Cookie Notice &amp; Compliance for GDPR / CCPA - Stable (latest release)\n"
+
+#: includes/settings.php:2208
+msgid "Untitled Page %d"
+msgstr "無題のページ %d"
+
+#: includes/settings.php:105
+msgid "Page"
+msgstr "ページ"
+
+#: includes/welcome.php:591 includes/welcome.php:689
+msgid "%sProfessional%s"
+msgstr "%sプロ版%s"
+
+#: includes/welcome.php:559
+msgid "I have read and agree to the %sTerms of Service%s"
+msgstr "%s利用規約%sを読み、同意しました"
+
+#: includes/welcome.php:321
+msgid "%sBasic%s Support"
+msgstr "%s基本%s サポート"
+
+#: includes/welcome.php:320
+msgid "%s1 additional%s language"
+msgstr "%s1 追加%s 言語"
+
+#: includes/welcome.php:317
+msgid "%s30 days%s consent storage"
+msgstr "%s30日間%s の同意を保存"
+
+#: includes/welcome.php:316
+msgid "%s1,000%s visits / month"
+msgstr "%s1,000%s 回の訪問 / 月"
+
+#: includes/welcome.php:136
+msgid "%sCompliance Failed!%sYour website does not achieve minimum viable compliance. %sSign up to Cookie Compliance%s to bring your site into compliance with the latest data privacy rules and regulations."
+msgstr "%sコンプライアンスに失敗しました !%s サイトは最低限のコンプライアンスを達成していません。サイトを最新のデータプライバシー規則と規制に準拠させるため %sCookie Compliance に登録%s してください。"
+
+#: includes/welcome-api.php:301
+msgid "The password contains illegal characters or does not meet the conditions."
+msgstr "パスワードに不正な文字が含まれているか、条件を満たしていません。"
+
+#: includes/settings.php:2235
+msgid "Guest"
+msgstr "ゲスト"
+
+#: includes/settings.php:2234
+msgid "Logged in"
+msgstr "ログイン中"
+
+#: includes/settings.php:2223
+msgid "Home Page"
+msgstr "ホームページ"
+
+#: includes/settings.php:2222
+msgid "Front Page"
+msgstr "フロントページ"
+
+#: includes/settings.php:2112
+msgid "-- no public archives --"
+msgstr "-- 公開アーカイブなし --"
+
+#: includes/settings.php:2009
+msgid "Create a set of rules to define the exact conditions for displaying or hiding the banner."
+msgstr "一連のルールを作成し、バナーを表示または非表示にする正確な条件を定義します。"
+
+#: includes/settings.php:2008
+msgid "+ Add rule"
+msgstr "+ ルールを追加"
+
+#: includes/settings.php:1941
+msgid "or"
+msgstr "または"
+
+#: includes/settings.php:864
+msgid "Determine what should happen when the following conditions are met."
+msgstr "次の条件が満たされた場合にどうするかを決定します。"
+
+#: includes/settings.php:851
+msgid "Enable conditional display of the banner."
+msgstr "バナーの条件表示を有効化。"
+
+#: includes/settings.php:775
+msgid "Sign up to %s and add GDPR, CCPA and other international data privacy laws compliance features."
+msgstr "%s に登録し、GDPR、CCPA、およびその他の国際データプライバシー法のコンプライアンス機能を追加してください。"
+
+#: includes/settings.php:636 includes/settings.php:659
+msgid "Conditional display"
+msgstr "条件表示"
+
+#: includes/settings.php:518
+msgid "Protect your business"
+msgstr "ビジネスを保護"
+
+#: includes/settings.php:503 includes/welcome.php:352
+msgid "%sPriority%s Support"
+msgstr "%s優先%sサポート"
+
+#: includes/settings.php:502 includes/welcome.php:351
+msgid "%sUnlimited%s languages"
+msgstr "%s無制限の%s言語"
+
+#: includes/settings.php:501 includes/welcome.php:319 includes/welcome.php:350
+msgid "%sGeolocation%s support"
+msgstr "%s位置情報%sのサポート"
+
+#: includes/settings.php:499 includes/welcome.php:348
+msgid "%sLifetime%s consent storage"
+msgstr "%s永久%s 同意を保存"
+
+#: includes/settings.php:498 includes/welcome.php:347
+msgid "%sUnlimited%s visits"
+msgstr "%s無制限%sの訪問"
+
+#: includes/settings.php:118
+msgid "Show the banner"
+msgstr "バナーを表示"
+
+#: includes/settings.php:117
+msgid "Hide the banner"
+msgstr "バナーを非表示"
+
+#: includes/settings.php:113
+msgid "is not equal to"
+msgstr "等しくない"
+
+#: includes/settings.php:112
+msgid "is equal to"
+msgstr "等しい"
+
+#: includes/settings.php:108
+msgid "User Type"
+msgstr "ユーザーの種類"
+
+#: includes/settings.php:107
+msgid "Post Type Archive"
+msgstr "投稿タイプアーカイブ"
+
+#: includes/settings.php:106
+msgid "Post Type"
+msgstr "投稿タイプ"
+
+#: includes/settings.php:104
+msgid "Page Type"
+msgstr "ページタイプ"
+
+#: includes/settings.php:821
+msgid "This option has been temporarily disabled because your website has reached the usage limit for the Cookie Compliance Basic plan. It will become available again when the current visits cycle resets or you upgrade your website to a Professional plan."
+msgstr "サイトが Cookie Compliance Basic プランの使用制限に達したため、このオプションは一時的に無効になっています。現在の訪問サイクルがリセットされるか、プロ版プランにアップグレードすることで再び利用できるようになります。"
+
+#: includes/welcome.php:380
+msgid "You have successfully signed up to a limited, Basic plan."
+msgstr "制限付き Basic プランへの登録が完了しました。"
+
+#: includes/welcome.php:380
+msgid "You have successfully signed up to a Professional plan."
+msgstr "プロ版プランへの登録が完了しました。"
+
+#: includes/welcome.php:355
+msgid "Start Professional"
+msgstr "プロ版で始める"
+
+#: includes/settings.php:521
+msgid "Deliver better consent experiences and comply with GDPR, CCPA and other data privacy laws more effectively."
+msgstr "より優れた同意エクスペリエンスを提供し、GDPR、CCPA、およびその他のデータ プライバシー法をより効果的に遵守します。"
+
+#: includes/settings.php:509
+msgid "Upgrade to Pro"
+msgstr "プロ版にアップグレード"
+
+#: includes/settings.php:492
+msgid "Your Cookie Compliance plan:"
+msgstr "Cookie Compliance プラン:"
+
+#. Plugin URI of the plugin
+msgid "https://cookie-compliance.co/"
+msgstr "https://cookie-compliance.co/"
+
+#: includes/settings.php:523
+msgid "Cookie Compliance dashboard"
+msgstr "Cookie Compliance ダッシュボード"
+
+#: includes/settings.php:713
+msgid "Global network settings override is active. Every site will use the same network settings. Please contact super administrator if you want to have more control over the settings."
+msgstr "グローバルネットワーク設定の上書きが有効いです。すべてのサイトが同じネットワーク設定を使用します。設定をより詳細に制御したい場合は、特権管理者に連絡してください。"
+
+#: includes/settings.php:702
+msgid "Cookie consent in one of the network sites results in a consent in all of the sites on the network."
+msgstr "1つのネットワークサイトでの Cookie の同意は、ネットワーク上のすべてのサイトでの同意になります。"
+
+#: includes/settings.php:701
+msgid "Enable global network cookie consent."
+msgstr "グローバルネットワークの Cookie 同意を有効化。"
+
+#: includes/settings.php:695
+msgid "This option works only for domain-based networks."
+msgstr "このオプションは、ドメインベースのネットワークでのみ機能します。"
+
+#: includes/settings.php:681
+msgid "Every site in the network will use the same settings. Site administrators will not be able to change them."
+msgstr "ネットワーク内のすべてのサイトが同じ設定を使用します。サイト管理者は変更できません。"
+
+#: includes/settings.php:680
+msgid "Enable global network settings override."
+msgstr "グローバルネットワーク設定の上書きを有効化。"
+
+#: includes/settings.php:592
+msgid "Global Cookie"
+msgstr "グローバル Cookie"
+
+#: includes/settings.php:591
+msgid "Global Settings Override"
+msgstr "グローバル設定を上書き"
+
+#: includes/settings.php:590 includes/settings.php:595
+msgid "Network Settings"
+msgstr "サイトネットワーク設定"
+
+#: cookie-notice.php:752
+msgid "Cookie Compliance Warning"
+msgstr "Cookie Compliance 警告"
+
+#: includes/settings.php:897
+msgid "Enable to run the consent banner in debug mode."
+msgstr "同意バナーをデバッグモードで実行できるようにする。"
+
+#: includes/settings.php:632
+msgid "Debug mode"
+msgstr "デバッグモード"
+
+#: includes/dashboard.php:511
+msgid "Run Compliance Check to determine your site's compliance with updated data processing and consent rules under GDPR, CCPA and other international data privacy laws."
+msgstr "コンプライアンスチェックを実行して、GDPR、CCPA、およびその他の国際的なデータプライバシー法に基づく更新されたデータ処理および同意ルールに対するサイトのコンプライアンスを判断します。"
+
+#: includes/dashboard.php:509
+msgid "Your site does not have Cookie Compliance"
+msgstr "あなたのサイトは Cookie コンプライアンスに準拠していません"
+
+#: cookie-notice.php:752
+msgid "To reactivate compliance services now, <a href=\"%s\" target=\"_blank\">upgrade your domain to a Pro plan.</a>"
+msgstr "今すぐコンプライアンスサービスを再開するには、<a href=\"%s\" target=\"_blank\">ドメインをプロ版にアップグレード</a> してください"
+
+#: cookie-notice.php:752
+msgid "Your website has reached the <b>%1$s visits usage limit for the Cookie Compliance Free Plan</b>. Compliance services such as Consent Record Storage, Autoblocking, and Consent Analytics have been deactivated until current usage cycle ends on %2$s."
+msgstr "あなたのサイトは、 <b>Cookie Compliance 無料版の利用制限 %1$s 訪問数</b> に達しました。 同意記録保管などのコンプライアンスサービス、自動ブロッキング、同意分析は、現在の使用サイクルが %2$s で終了するまで無効化されます。"
+
+#: includes/welcome.php:732
+msgid "Licenses"
+msgstr "ライセンス"
+
+#: includes/welcome.php:731
+msgid "Select subscription"
+msgstr "サブスクリプションを選択"
+
+#: includes/welcome.php:691
+msgid "Use License"
+msgstr "ライセンスを利用"
+
+#: includes/welcome.php:337 includes/welcome.php:338 includes/welcome.php:339
+#: includes/welcome.php:340
+msgid "%s domain license"
+msgid_plural "%s domains license"
+msgstr[0] "%s ドメイン ライセンス"
+
+#: includes/welcome.php:336
+msgid "Pricing options"
+msgstr "価格オプション"
+
+#: includes/welcome.php:334
+msgid "Recommended"
+msgstr "おすすめ"
+
+#: includes/settings.php:493 includes/welcome.php:332
+msgid "Professional"
+msgstr "プロ版"
+
+#: includes/welcome.php:324
+msgid "Start Basic"
+msgstr "基本プランを開始"
+
+#: includes/welcome.php:302
+msgid "Save 12%"
+msgstr "12% 割引"
+
+#: includes/welcome.php:302
+msgid "Yearly"
+msgstr "年間"
+
+#: includes/welcome.php:299
+msgid "Monthly"
+msgstr "毎月"
+
+#: includes/welcome.php:138 includes/welcome.php:691
+msgid "available"
+msgstr "利用可能"
+
+#: includes/welcome.php:132
+msgid "yearly"
+msgstr "年間"
+
+#: includes/welcome.php:131 includes/welcome.php:333 includes/welcome.php:591
+#: includes/welcome.php:689
+msgid "monthly"
+msgstr "毎月"
+
+#: includes/welcome-api.php:232
+msgid "No payment method token."
+msgstr "支払方法が見つかりません。"
+
+#: includes/welcome-api.php:226
+msgid "Unable to create payment mehotd."
+msgstr "お支払い方法を作成できません。"
+
+#: includes/settings.php:554
+msgid "You can learn more about the features and pricing by visiting the Cookie Compliance website here:"
+msgstr "機能と価格について詳しくは、 Cookie Compliance のサイトをご覧ください:"
+
+#: includes/settings.php:553
+msgid "Where can I find pricing options?"
+msgstr "価格オプションはどこにありますか ?"
+
+#: includes/settings.php:524
+msgid "Learn more"
+msgstr "詳細はこちら"
+
+#: includes/dashboard.php:152
+msgctxt "threshold limit"
+msgid "Free"
+msgstr "無料版"
+
+#: includes/dashboard.php:151
+msgctxt "threshold limit"
+msgid "Used"
+msgstr "使用済み"
+
+#: includes/settings.php:549
+msgid "Yes, but with limits. Cookie Compliance includes both free and paid plans to choose from depending on your needs and your website monthly traffic."
+msgstr "はい、ただし制限があります。Cookie Compliance には、ニーズとサイトの月間トラフィック量に応じて選択できる無料プランと有料プランの両方が含まれています。"
+
+#: includes/settings.php:548
+msgid "Is Cookie Compliance free?"
+msgstr "Cookie Compliance は無料ですか ?"
+
+#: includes/settings.php:544
+msgid "Yes! The plugin + web application version includes technical compliance features to meet requirements for over 100 countries and legal jurisdictions."
+msgstr "はい !プラグインとアプリケーションのバージョンには、100 を超える国と法域の要件を満たすための技術コンプライアンス機能が含まれています。"
+
+#: includes/settings.php:543
+msgid "Does the Cookie Compliance integration make my site fully compliant with GDPR/CCPA?"
+msgstr "Cookie Compiance の統合により、サイトは GDPR に完全に準拠するようになりますか ?"
+
+#: includes/settings.php:539
+msgid "It is not possible to provide the required technical compliance features using only a WordPress plugin. Features like consent record storage, purpose categories and script blocking that bring your site into full compliance with privacy regulations are only available through the Cookie Compliance integration."
+msgstr "WordPress プラグインのみを使用して必要な技術コンプライアンス機能を提供することはできません。サイトをGDPR に完全に準拠させる同意記録の保存、目的のカテゴリ、スクリプトのブロックなどの機能は、Cookie Compliance の統合を通じてのみ利用できます。"
+
+#: includes/settings.php:534
+msgid "F.A.Q."
+msgstr "よくある質問。"
+
+#: includes/dashboard.php:451
+msgid "Days to go: %s"
+msgstr "残り日数: %s"
+
+#: includes/dashboard.php:450
+msgid "Cycle started: %s"
+msgstr "開始されたサイクル: %s"
+
+#: includes/dashboard.php:449
+msgid "Visits usage: %1$s / %2$s"
+msgstr "訪問数: %1$s / %2$s"
+
+#: includes/dashboard.php:446
+msgid "Traffic Usage"
+msgstr "トラフィック数"
+
+#: includes/dashboard.php:429
+msgid "Updated %s"
+msgstr "%s を更新しました"
+
+#: includes/dashboard.php:427 includes/settings.php:269
+#: includes/settings.php:312 includes/settings.php:583
+msgid "Consent Logs"
+msgstr "同意ログ"
+
+#: includes/dashboard.php:424
+msgid "Last 30 days"
+msgstr "過去30日間"
+
+#: includes/dashboard.php:422
+msgid "Total Visits"
+msgstr "総訪問者数"
+
+#: includes/dashboard.php:320 includes/settings.php:391
+msgid "Upgrade to Cookie Compliance"
+msgstr "Cookie Compliance のアップグレード"
+
+#: includes/dashboard.php:319
+msgid "Enable consent purpose categories, automatic cookie blocking and more."
+msgstr "同意目的のカテゴリ、自動 Cookie ブロックなどを有効。"
+
+#: includes/dashboard.php:318
+msgid "Get Consent logs data for the last 30 days."
+msgstr "過去30日間の同意ログデータを取得。"
+
+#: includes/dashboard.php:317
+msgid "Display information about the visits."
+msgstr "訪問に関する情報を表示。"
+
+#: includes/dashboard.php:316
+msgid "View consent activity inside WordPress Dashboard"
+msgstr "WordPress ダッシュボード内に同意アクティビティを表示"
+
+#: includes/dashboard.php:296
+msgid "Displays the chart of the domain consent activity in the last 30 days."
+msgstr "過去30日間のドメイン同意アクティビティのグラフを表示。"
+
+#: includes/dashboard.php:295
+msgid "Consent Activity"
+msgstr "同意アクティビティ"
+
+#: includes/dashboard.php:291
+msgid "Displays the general visits information for your domain."
+msgstr "ドメインの一般的な訪問情報を表示。"
+
+#: includes/dashboard.php:290
+msgid "Traffic Overview"
+msgstr "トラフィックの概要"
+
+#: includes/dashboard.php:181 includes/dashboard.php:193
+#: includes/dashboard.php:205
+msgid "Level %s"
+msgstr "レベル %s"
+
+#: includes/dashboard.php:72
+msgid "Cookie Compliance"
+msgstr "Cookie コンプライアンス"
+
+#: includes/welcome.php:486 includes/welcome.php:514
+msgid "available for Cookie Compliance&trade; Pro plans only"
+msgstr "Cookie Compliance&trade; プロ版のみ利用可能;"
+
+#: includes/welcome.php:483
+msgid "Display %sPrivacy Contact%s to provide Data Controller contact information and links to external data privacy resources."
+msgstr "%sプライバシー連絡先%sを表示し、データ管理者の連絡先情報と外部データプライバシーリソースへのリンクを提供。"
+
+#: includes/welcome.php:482
+msgid "Display %sPrivacy Paper%s to provide helpful data privacy and consent information to visitors."
+msgstr "%sプライバシーペーパー%sを表示し、訪問者に役立つデータのプライバシーと同意情報を提供します。"
+
+#: includes/welcome.php:480
+msgid "Select additional information to include in the banner: *"
+msgstr "バナーに含める追加情報を選択: *"
+
+#: includes/welcome.php:476
+msgid "Reject All, Accept Some, Accept All​"
+msgstr "すべてを拒否、一部を受け入れる、すべてを受け入れる"
+
+#: includes/welcome.php:475
+msgid "Private, Balanced, Personalized"
+msgstr "プライベート、バランス、パーソナライズ"
+
+#: includes/welcome.php:474
+msgid "Silver, Gold, Platinum (Default)​"
+msgstr "シルバー、ゴールド、プラチナ (デフォルト)"
+
+#: includes/welcome.php:472
+msgid "Select a naming style for the consent choices"
+msgstr "同意の選択肢の命名スタイルを選択"
+
+#: includes/settings.php:212
+msgid "months"
+msgstr "ヶ月"
+
+#: includes/settings.php:207
+msgid "Highest level of personalisation. Data accessed to make ads and media more relevant. Data shared with 3rd parties may be use to track you on this site and other sites you visit."
+msgstr "最高レベルのパーソナライズ。広告とメディアの関連性を高めるためにアクセスされるデータ。サードパーティと共有されるデータは、このサイトおよびアクセスした他のサイトであなたを追跡するために使用される場合があります。"
+
+#: includes/settings.php:206
+msgid "Balanced experience. Data accessed for content personalisation and site optimisation. Data shared with 3rd parties may be used to track and store your preferences for this site."
+msgstr "バランスの取れた体験。 コンテンツのパーソナライズとサイトの最適化のためにアクセスされるデータ。サードパーティと共有されるデータは、このサイトの設定を追跡および保存するために使用される場合があります。"
+
+#: includes/settings.php:205
+msgid "Highest level of privacy. Data accessed for necessary site operations only. Data shared with 3rd parties to ensure the site is secure and works on your device."
+msgstr "最高レベルのプライバシー。必要なサイト操作のためにのみアクセスされるデータ。 サイトがデバイスで安全に機能することを保証するためにサードパーティと共有されるデータ。"
+
+#: includes/settings.php:204
+msgid "Select a Data Access Level and Duration to choose how we use and share your data."
+msgstr "データアクセスレベルと期間を選択し、データの使用方法と共有方法を選択。"
+
+#: includes/settings.php:203
+msgid "We believe your data is your property and support your right to privacy and transparency."
+msgstr "私たちはデータが財産であると信じており、プライバシーと透明性に対する権利をサポートしています。"
+
+#: includes/settings.php:199
+msgid "Save my preferences"
+msgstr "設定を保存"
+
+#: includes/settings.php:194
+msgid "Accept All"
+msgstr "すべて承認"
+
+#: includes/settings.php:193
+msgid "Accept Some"
+msgstr "一部承認"
+
+#: includes/settings.php:192
+msgid "Reject All"
+msgstr "すべて却下"
+
+#: includes/settings.php:189
+msgid "Personalized"
+msgstr "パーソナライズ"
+
+#: includes/settings.php:188
+msgid "Balanced"
+msgstr "バランスのよい"
+
+#: includes/settings.php:187
+msgid "Private"
+msgstr "非公開"
+
+#: includes/settings.php:184
+msgid "Platinum"
+msgstr "プラチナ"
+
+#: includes/settings.php:183
+msgid "Gold"
+msgstr "ゴールド"
+
+#: includes/settings.php:182
+msgid "Silver"
+msgstr "シルバー"
+
+#: includes/settings.php:151
+msgid "Button color"
+msgstr "ボタンの色"
+
+#: cookie-notice.php:1198
+msgid "Deactivate & Submit"
+msgstr "無効化して送信"
+
+#: cookie-notice.php:1197
+msgid "Deactivate"
+msgstr "無効化"
+
+#: cookie-notice.php:1196
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: cookie-notice.php:1182
+msgid "Other"
+msgstr "その他"
+
+#: cookie-notice.php:1181
+msgid "Support isn't timely."
+msgstr "サポートはタイムリーではありません。"
+
+#: cookie-notice.php:1180
+msgid "The web application user interface is not clear to me."
+msgstr "Webアプリケーションのユーザーインターフェイスはわかりません。"
+
+#: cookie-notice.php:1179
+msgid "The Cookie Compliance default settings are too strict."
+msgstr "Cookie コンプライアンスのデフォルト設定が厳しすぎます。"
+
+#: cookie-notice.php:1178
+msgid "The Cookie Compliance consent choices (Silver, Gold, Platinum) are confusing."
+msgstr "Cookie コンプライアンスの同意の選択 (シルバー、ゴールド、プラチナ) がわかりづらいです。"
+
+#: cookie-notice.php:1177
+msgid "The Cookie Compliance banner is too big."
+msgstr "Cookie コンプライアンスバナーが大きすぎます。"
+
+#: cookie-notice.php:1176
+msgid "I found another plugin to use for the same task."
+msgstr "同じように動作する別のプラグインを見つけました。"
+
+#: cookie-notice.php:1175
+msgid "I couldn't figure out how to make it work."
+msgstr "操作方法がわかりませんでした。"
+
+#: cookie-notice.php:1171
+msgid "We're sorry to see you go. Could you please tell us what happened?"
+msgstr "ご不便をおかけして申し訳ございません。 何が起こったのか教えてもらえますか ?"
+
+#: cookie-notice.php:1066
+msgid "Cookie Notice & Compliance - Deactivation survey"
+msgstr "Cookie Notice & Compliance - 無効化の調査"
+
+#: cookie-notice.php:717
+msgid "Dismiss Notice"
+msgstr "通知を非表示"
+
+#: cookie-notice.php:717 includes/dashboard.php:512
+msgid "Run Compliance Check"
+msgstr "コンプライアンスチェックを実行"
+
+#: includes/welcome.php:648
+msgid "Sign in to your existing Cookie Compliance&trade; account and select your preferred plan."
+msgstr "すでにお持ちの Cookie Compliance&trade; アカウントにサインインしご希望のプランを選択してください。"
+
+#: includes/welcome.php:621 includes/welcome.php:722
+msgid "Submit"
+msgstr "送信"
+
+#: includes/welcome.php:595 includes/welcome.php:696 includes/welcome.php:735
+msgid "Confirm"
+msgstr "確認"
+
+#: includes/welcome.php:539
+msgid "Create a Cookie Compliance&trade; account and select your preferred plan."
+msgstr "Cookie Compliance&trade; アカウントを作成し、ご希望のプランを選択してください。"
+
+#: includes/welcome.php:519
+msgid "Apply Setup"
+msgstr "設定を適用"
+
+#: includes/welcome.php:440
+msgid "Configure your Cookie Notice & Compliance design and compliance features through the options below. Click Apply Setup to save the configuration and go to selecting your preferred cookie solution."
+msgstr "以下のオプションで、 Cookie Notice & Complianceの設計およびコンプライアンス機能を構成します。[設定を適用]をクリックして構成を保存し、希望する Cookie ソリューションの選択に進む。"
+
+#: includes/welcome.php:439
+msgid "Live Setup"
+msgstr "ライブセットアップ"
+
+#: includes/welcome.php:423
+msgid "Proof-of-consent stored in secure audit format."
+msgstr "安全な監査形式で保存された同意の証明。"
+
+#: includes/welcome.php:422
+msgid "Separate consent requested per purpose of use."
+msgstr "使用目的ごとに個別の同意が必要です。"
+
+#: includes/welcome.php:421
+msgid "Non-essential cookies blocked until consent is registered."
+msgstr "同意が登録されるまで、必須ではない Cookie はブロックされます。"
+
+#: includes/welcome.php:420
+msgid "Notifies visitors that site uses cookies."
+msgstr "サイトが Cookie を使用していることを訪問者に知らせます。"
+
+#: includes/welcome.php:417
+msgid "Checking..."
+msgstr "確認中..."
+
+#: includes/welcome.php:411
+msgid "This is a Compliance Check to determine your site’s compliance with updated data processing and consent rules under GDPR, CCPA and other international data privacy laws."
+msgstr "これは、GDPR、CCPA、およびその他の国際的なデータプライバシー法に基づく更新されたデータ処理および同意ルールへのサイトのコンプライアンスを判断するためのコンプライアンスチェックです。"
+
+#: includes/welcome.php:410
+msgid "Compliance check"
+msgstr "コンプライアンスチェック"
+
+#: includes/welcome.php:379
+msgid "Congratulations"
+msgstr "おめでとうございます"
+
+#: includes/welcome.php:361
+msgid "I don’t want to create an account now"
+msgstr "今はアカウントを作成しない"
+
+#: includes/settings.php:211
+msgid "month"
+msgstr "月"
+
+#: includes/welcome.php:584 includes/welcome.php:682
+msgid "Select Plan"
+msgstr "プランを選択"
+
+#: includes/settings.php:497 includes/welcome.php:315 includes/welcome.php:346
+msgid "Consent Analytics Dashboard"
+msgstr "同意分析ダッシュボード"
+
+#: includes/welcome.php:311
+msgid "Free"
+msgstr "無料版"
+
+#: includes/settings.php:493 includes/welcome.php:310 includes/welcome.php:590
+#: includes/welcome.php:688
+msgid "Basic"
+msgstr "基本"
+
+#: includes/welcome.php:292
+msgid "Take a proactive approach to data protection and consent laws by signing up for Cookie Compliance account. Then select a limited Basic Plan for free or get one of the Professional Plans for unlimited visits, consent storage, languages and customizations."
+msgstr "Cookie Compliance のアカウントに登録し、データ保護および同意法に積極的に取り組んでください。次に、機能限定された無料の基本プランを選択するか、訪問、同意の保存、言語、およびカスタマイズなど機能無制限のプロ版プランの1つを取得します。"
+
+#: includes/welcome.php:266
+msgid "Sign up to Cookie Compliance"
+msgstr "Cookie コンプライアンスに登録"
+
+#: includes/welcome.php:262
+msgid "Cookie Notice includes %sseamless integration%s with Cookie Compliance to help your site comply with the latest updates to existing consent laws and provide a beautiful, multi-level experience to engage visitors in data privacy decisions."
+msgstr "Cookie Notice には、Cookie Complianceとの%sシームレスな統合%sが含まれており、サイトが既存の同意法の最新の更新に準拠し、訪問者をデータプライバシーの決定に関与させるための美しいマルチレベルの体験を提供します。"
+
+#: includes/welcome.php:261
+msgid "It is the first solution to offer %sintentional consent%s, a new consent framework that incorporates the latest guidelines from over 100+ countries, and emerging standards from leading international organizations like the IEEE."
+msgstr "%s意図的な同意%sを提供する初のソリューション、100カ国以上の最新ガイドライン、および IEEE など主要な国際組織からの新しい標準を組み込んだ新しい同意フレームワーク。"
+
+#: includes/welcome.php:255
+msgid "Cookie Compliance is a free web application that enables websites to take a proactive approach to data protection and consent laws."
+msgstr "Cookie Compliance は、サイトがデータ保護および同意法に積極的に取り組むことを可能にする無料のアプリケーションです。"
+
+#: includes/welcome.php:137
+msgid "%sCompliance Passed!%sCongratulations. Your website meets minimum viable compliance."
+msgstr "%sコンプライアンスに合格しました !%s おめでとうございます。サイトは実行可能なコンプライアンスを最低限満たしています。"
+
+#: includes/welcome.php:130
+msgid "Failed"
+msgstr "失敗しました"
+
+#: includes/welcome.php:129
+msgid "Passed"
+msgstr "パスしました"
+
+#: includes/settings.php:774
+msgid "Add Compliance features"
+msgstr "コンプライアンス機能を追加"
+
+#: includes/settings.php:755
+msgid "Log in & configure"
+msgstr "ログインして設定"
+
+#: cookie-notice.php:1145
+msgid "Free Upgrade"
+msgstr "無料版アップグレード"
+
+#: includes/settings.php:202
+msgid "Preferences"
+msgstr "環境設定"
+
+#: includes/settings.php:201
+msgid "Do Not Sell"
+msgstr "販売しないでください"
+
+#: includes/settings.php:1718
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+#: includes/settings.php:820
+msgid "Enable to automatically block 3rd party scripts before user consent is set."
+msgstr "ユーザーの同意の前にサードパーティのスクリプトを自動的にブロックできるようにする。"
+
+#: includes/settings.php:738 includes/settings.php:752
+#: includes/settings.php:771 includes/welcome.php:423
+msgid "Proof-of-Consent"
+msgstr "同意の証明"
+
+#: includes/settings.php:737 includes/settings.php:751
+#: includes/settings.php:770 includes/welcome.php:422
+msgid "Cookie Categories"
+msgstr "Cookie のカテゴリー"
+
+#: includes/settings.php:735 includes/settings.php:749
+#: includes/settings.php:768
+msgid "Notice"
+msgstr "通知"
+
+#: includes/settings.php:664
+msgid "Notice Design"
+msgstr "通知デザイン"
+
+#: includes/settings.php:647
+msgid "Notice Settings"
+msgstr "通知設定"
+
+#: includes/settings.php:631 includes/settings.php:736
+#: includes/settings.php:750 includes/settings.php:769 includes/welcome.php:421
+msgid "Autoblocking"
+msgstr "自動ブロック"
+
+#: includes/settings.php:624 includes/settings.php:641
+msgid "Compliance Settings"
+msgstr "コンプライアンス設定"
+
+#: includes/settings.php:267
+msgid "Cookies"
+msgstr "Cookies"
+
+#: includes/welcome.php:677
+msgid "Sign up"
+msgstr "登録"
+
+#: includes/welcome.php:677
+msgid "Don't have an account yet?"
+msgstr "アカウントをまだお持ちではありませんか ?"
+
+#: includes/welcome.php:652
+msgid "Account Login"
+msgstr "アカウントにログイン"
+
+#: includes/welcome.php:577
+msgid "Already have an account?"
+msgstr "すでにアカウントをお持ちですか ?"
+
+#: includes/welcome.php:543
+msgid "Create Account"
+msgstr "アカウントを作成"
+
+#: includes/settings.php:836
+msgid "Click the Purge Cache button to refresh the app configuration."
+msgstr "キャッシュの削除ボタンをクリックして、アプリの構成を更新。"
+
+#: includes/settings.php:834
+msgid "Purge Cache"
+msgstr "キャッシュをクリア"
+
+#: includes/settings.php:803
+msgid "Enter your Cookie Compliance&trade; application secret key."
+msgstr "Cookie Compliance&trade; アプリケーションの秘密鍵を入力してください。"
+
+#: includes/settings.php:790
+msgid "Enter your Cookie Compliance&trade; application ID."
+msgstr "Cookie Compliance&trade; アプリケーション ID を入力してください。"
+
+#: includes/settings.php:769 includes/settings.php:770
+#: includes/settings.php:771
+msgid "Inactive"
+msgstr "無効"
+
+#: includes/settings.php:756
+msgid "Log into the Cookie Compliance&trade; web application and complete the setup process."
+msgstr "Compliance&trade; にログインし、Webアプリケーションを作成し、設定を完了。"
+
+#: includes/settings.php:750 includes/settings.php:751
+#: includes/settings.php:752
+msgid "Pending"
+msgstr "保留"
+
+#: includes/settings.php:741
+msgid "Log in & Configure"
+msgstr "ログインして設定"
+
+#: includes/settings.php:735 includes/settings.php:736
+#: includes/settings.php:737 includes/settings.php:738
+#: includes/settings.php:749 includes/settings.php:768
+msgid "Active"
+msgstr "有効"
+
+#: includes/settings.php:634
+msgid "Cache"
+msgstr "キャッシュ"
+
+#: includes/settings.php:630
+msgid "Miscellaneous Settings"
+msgstr "その他の設定"
+
+#: includes/settings.php:627 includes/settings.php:644
+msgid "App Key"
+msgstr "App Key"
+
+#: includes/settings.php:626 includes/settings.php:643
+msgid "App ID"
+msgstr "App ID"
+
+#: includes/settings.php:625 includes/settings.php:642
+msgid "Compliance status"
+msgstr "コンプライアンスの状態"
+
+#: includes/dashboard.php:494
+msgid "Cookie Compliance Status"
+msgstr "クッキーコンプライアンスの状態"
+
+#: includes/settings.php:519
+msgid "with Cookie Compliance&trade;"
+msgstr "Cookie Compliance&trade; による"
+
+#: includes/settings.php:307
+msgid "Cookie Notice & Compliance for GDPR/CCPA"
+msgstr "Cookie Notice & Compliance for GDPR/CCPA"
+
+#: includes/welcome.php:267
+msgid "Skip for now"
+msgstr "今のところスキップ"
+
+#: includes/welcome.php:756
+msgid "Go to Cookie Compliance application now. Or access it anytime from your %sCookie Notice settings page%s."
+msgstr "Cookie Compliance アプリケーションを今すぐチェック。または、%sCookie Notice 設定ページ%sからいつでもアクセスできます。"
+
+#: includes/welcome.php:756
+msgid "You have successfully integrated your website to Cookie Compliance&trade;"
+msgstr "サイトの Cookie Compliance&trade; を正常にアップグレードしました"
+
+#: includes/welcome.php:755
+msgid "Success!"
+msgstr "成功しました !"
+
+#: includes/welcome.php:577 includes/welcome.php:663
+msgid "Sign in"
+msgstr "ログイン"
+
+#: includes/welcome.php:646
+msgid "Compliance Sign in"
+msgstr "コンプライアンス ログイン"
+
+#: includes/welcome.php:617 includes/welcome.php:718
+msgid "CVC/CVV"
+msgstr "CVC/CVV"
+
+#: includes/welcome.php:613 includes/welcome.php:714
+msgid "Expiration Date"
+msgstr "有効期限"
+
+#: includes/welcome.php:609 includes/welcome.php:710
+msgid "Card Number"
+msgstr "カード番号"
+
+#: includes/welcome.php:603 includes/welcome.php:704
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/welcome.php:602 includes/welcome.php:703
+msgid "Credit Card"
+msgstr "クレジットカード"
+
+#: includes/welcome.php:600 includes/welcome.php:701
+msgid "Payment Method"
+msgstr "支払い方法"
+
+#: includes/welcome.php:296
+msgid "Compliance Plans"
+msgstr "コンプライアンス プラン"
+
+#: includes/welcome.php:563
+msgid "Sign Up"
+msgstr "登録"
+
+#: includes/welcome.php:555
+msgid "Confirm Password"
+msgstr "パスワード確認"
+
+#: includes/welcome.php:551 includes/welcome.php:660
+msgid "Password"
+msgstr "パスワード"
+
+#: includes/welcome.php:548 includes/welcome.php:657
+msgid "Email address"
+msgstr "メールアドレス"
+
+#: includes/welcome.php:537
+msgid "Compliance account"
+msgstr "コンプライアンスアカウント"
+
+#: includes/welcome.php:511
+msgid "Color of the button text."
+msgstr "ボタンの文字色。"
+
+#: includes/welcome.php:510
+msgid "Color of the heading text."
+msgstr "見出しの文字色。"
+
+#: includes/welcome.php:508
+msgid "Color of the body text."
+msgstr "本文の文字色。"
+
+#: includes/welcome.php:509
+msgid "Color of the borders and inactive elements."
+msgstr "境界線と非アクティブな要素の色。"
+
+#: includes/welcome.php:507
+msgid "Color of the banner background."
+msgstr "バナーの背景色。"
+
+#: includes/welcome.php:506
+msgid "Color of the buttons and interactive elements."
+msgstr "ボタンとインタラクティブな要素の色。"
+
+#: includes/welcome.php:504
+msgid "Adjust the banner color scheme"
+msgstr "バナーの配色を調整"
+
+#: includes/welcome.php:500
+msgid "Center"
+msgstr "中央"
+
+#: includes/welcome.php:499
+msgid "Right"
+msgstr "右寄せ"
+
+#: includes/welcome.php:498
+msgid "Left"
+msgstr "左寄せ"
+
+#: includes/welcome.php:494
+msgid "Select your preferred display position"
+msgstr "表示したい位置を選択"
+
+#: includes/welcome.php:490
+msgid "Banner Design"
+msgstr "バナーデザイン"
+
+#: includes/welcome.php:468
+msgid "CCPA"
+msgstr "CCPA"
+
+#: includes/welcome.php:467
+msgid "GDPR"
+msgstr "GDPR"
+
+#: includes/welcome.php:465
+msgid "Select the laws that apply to your business"
+msgstr "あなたのビジネスに適用される法律を選択"
+
+#: includes/welcome.php:444
+msgid "Banner Compliance"
+msgstr "バナー コンプライアンス"
+
+#: includes/welcome.php:414
+msgid "Site Name"
+msgstr "サイト名"
+
+#: includes/welcome.php:413
+msgid "Site URL"
+msgstr "サイト URL"
+
+#: includes/welcome.php:385
+msgid "Go to Application"
+msgstr "アプリケーションへ移動"
+
+#: includes/welcome.php:382
+msgid "Log in to your Cookie Compliance account and continue configuring your Privacy Experience."
+msgstr "Cookie Compliance&trade; アカウントにログインし、プライバシーエクスペリエンスの構成を続行。"
+
+#: includes/welcome.php:253 includes/welcome.php:290
+msgid "The next generation of Cookie Notice"
+msgstr "次世代の Cookie 通知"
+
+#: includes/welcome.php:139
+msgid "Please fill all the required fields."
+msgstr "必須項目をすべて入力してください。"
+
+#: includes/welcome-api.php:307
+msgid "Passwords do not match."
+msgstr "パスワードが一致しません。"
+
+#: includes/welcome-api.php:295 includes/welcome-api.php:527
+msgid "Password is not allowed to be empty."
+msgstr "パスワードを空空白することはできません。"
+
+#: includes/welcome-api.php:285 includes/welcome-api.php:518
+msgid "Email is not allowed to be empty."
+msgstr "メールアドレスを空白にすることはできません。"
+
+#: includes/welcome-api.php:276
+msgid "Please accept the Terms of Service to proceed."
+msgstr "利用規約に同意して続行してください。"
+
+#: includes/welcome-api.php:187
+msgid "Unable to create customer data."
+msgstr "お客さまのデータを作成できません。"
+
+#: includes/welcome-api.php:152
+msgid "Empty plan or payment method data."
+msgstr "空のプランまたは支払い方法のデータ。"
+
+#: includes/welcome-api.php:115 includes/welcome-api.php:349
+#: includes/welcome-api.php:391 includes/welcome-api.php:550
+#: includes/welcome-api.php:624 includes/welcome-api.php:1168
+#: includes/welcome.php:128
+msgid "Unexpected error occurred. Please try again later."
+msgstr "エラーが発生しました。後ほどもう一度お試しください。"
+
+#: includes/welcome-api.php:35 includes/welcome-api.php:39
+#: includes/welcome-api.php:46 includes/welcome-api.php:59
+#: includes/welcome.php:207 includes/welcome.php:235 includes/welcome.php:238
+msgid "You do not have permission to access this page."
+msgstr "このページへのアクセス権がありません。"
+
+#. Author of the plugin
+msgid "Hu-manity.co"
+msgstr "Hu-manity.co"
+
+#. Description of the plugin
+msgid "Cookie Notice allows you to you elegantly inform users that your site uses cookies and helps you comply with GDPR, CCPA and other data privacy laws."
+msgstr "Cookie Notice を使えば、サイトで Cookie を使っていることをユーザーにエレガントに知らせ、GDPR、CCPA、およびその他のデータプライバシー法に準拠することができます。"
+
+#. Author URI of the plugin
+msgid "https://hu-manity.co/"
+msgstr "https://hu-manity.co/"
+
+#. Plugin Name of the plugin
+msgid "Cookie Notice & Compliance for GDPR / CCPA"
+msgstr "Cookie Notice & Compliance for GDPR / CCPA"
+
+#: includes/settings.php:1338
+msgid "Bar opacity"
+msgstr "バーの不透明度"
+
+#: includes/settings.php:1200
+msgid "The amount of time that the cookie should be stored for when the user doesn't accept the notice."
+msgstr "ユーザーが通知を受け入れない場合に Cookie を保存する必要がある時間。"
+
+#: includes/settings.php:1179
+msgid "The amount of time that the cookie should be stored for when user accepts the notice."
+msgstr "ユーザーが同意した際に Cookie を保存する期間。"
+
+#: includes/settings.php:658
+msgid "Rejected expiry"
+msgstr "有効期限を拒否"
+
+#: includes/settings.php:657
+msgid "Accepted expiry"
+msgstr "承認された有効期限"
+
+#: includes/settings.php:1288
+msgid "Enable to accept the notice on any click on the page."
+msgstr "ページをクリックするたびに通知を受け入れる。"
+
+#: includes/settings.php:1275
+msgid "Number of pixels user has to scroll to accept the notice and make it disappear."
+msgstr "通知を受け入れ非表示にするために、訪問者がスクロールする必要がある高さ。"
+
+#: includes/settings.php:1272
+msgid "Enable to accept the notice when user scrolls."
+msgstr "訪問者がスクロールしたときに通知を受け入れることができるようにする。"
+
+#: includes/settings.php:1257
+msgid "Select the animation style."
+msgstr "アニメーションスタイルを選択。"
+
+#: includes/settings.php:1238
+msgid "Select location for the notice."
+msgstr "通知の位置を選択。"
+
+#: includes/settings.php:1109
+msgid "Select where to redirect user for more information."
+msgstr "詳細について、リダイレクトする場所を選択。"
+
+#: includes/settings.php:1042
+msgid "Enter the revoke message."
+msgstr "取り消しメッセージを入力。"
+
+#: includes/settings.php:990
+msgid "The text of the button to refuse the consent."
+msgstr "Cookie の同意を取り消すボタンのテキスト。"
+
+#: includes/settings.php:971
+msgid "The text of the option to accept the notice and make it disappear."
+msgstr "通知を受け入れ非表示にするオプションのテキスト。"
+
+#: includes/settings.php:656
+msgid "On click"
+msgstr "クリック時"
+
+#: includes/settings.php:651
+msgid "Refuse consent"
+msgstr "同意を取り消す"
+
+#: includes/settings.php:223 includes/settings.php:652
+msgid "Revoke consent"
+msgstr "同意を取り消す"
+
+#: includes/settings.php:222
+msgid "You can revoke your consent any time using the Revoke consent button."
+msgstr "同意を取り消すボタンで、いつでも同意を取り消すことができます。"
+
+#: includes/settings.php:129
+msgid "Dark"
+msgstr "ダークカラー"
+
+#: includes/settings.php:128
+msgid "Light"
+msgstr "ライトカラー"
+
+#: includes/settings.php:1156
+msgid "Select the privacy policy link position."
+msgstr "プライバシーポリシーのリンク位置を選択。"
+
+#: includes/settings.php:145
+msgid "Banner"
+msgstr "バナー"
+
+#: includes/settings.php:1099
+msgid "The text of the privacy policy button."
+msgstr "プライバシーポリシーボタンのテキスト。"
+
+#: includes/settings.php:1313
+msgid "Enter additional button CSS classes separated by spaces."
+msgstr "追加ボタンの CSS クラスをスペースで区切って入力します。"
+
+#: includes/settings.php:1146
+msgid "Select the privacy policy link target."
+msgstr "プライバシーポリシーのリンク先を選択します。"
+
+#: includes/settings.php:1129
+msgid "Synchronize with WordPress Privacy Policy page."
+msgstr "WordPress のプライバシーポリシーページと同期します。"
+
+#: includes/settings.php:1096
+msgid "Enable privacy policy link."
+msgstr "プライバシーポリシーのリンクを有効にする。"
+
+#: includes/settings.php:1052
+msgid "Select the method for displaying the revoke button - automatic (in the banner) or manual using %s[cookies_revoke]%s shortcode."
+msgstr "取り消しボタンの表示方法を選択 - 自動 (バナー内) またはショートコード %s[cookies_revoke]%s を使用。"
+
+#: includes/settings.php:1044
+msgid "The text of the button to revoke the consent."
+msgstr "同意を取り消すボタンのテキスト。"
+
+#: includes/settings.php:1039
+msgid "Enable to give to the user the possibility to revoke their consent %s(requires \"Refuse consent\" option enabled)%s."
+msgstr "ユーザーに同意を取り消す可能性を与えることを有効化する%s(「同意を拒否」オプションを有効化する必要があります)%s。"
+
+#: includes/settings.php:1020
+msgid "The code to be used in your site footer, before the closing body tag."
+msgstr "body タグが閉じる前に、サイトのフッターで使用されるコード。"
+
+#: includes/settings.php:1016
+msgid "The code to be used in your site header, before the closing head tag."
+msgstr "head タグが閉じる前に、サイトのヘッダーで使用されるコード。"
+
+#: includes/settings.php:1013
+msgid "Body"
+msgstr "ボディ"
+
+#: includes/settings.php:1012
+msgid "Head"
+msgstr "Head"
+
+#: includes/settings.php:668
+msgid "Button class"
+msgstr "ボタンのクラス"
+
+#: includes/settings.php:200 includes/settings.php:224
+#: includes/settings.php:650
+msgid "Privacy policy"
+msgstr "プライバシーポリシー"
+
+#: includes/settings.php:158
+msgid "An hour"
+msgstr "1時間"
+
+#: includes/settings.php:134
+msgid "Manual"
+msgstr "手動"
+
+#: includes/settings.php:133
+msgid "Automatic"
+msgstr "自動"
+
+#: includes/settings.php:1065
+msgid "Enable to reload the page after the notice is accepted."
+msgstr "承諾後にページが再読込みされるようにする。"
+
+#: includes/settings.php:654
+msgid "Reloading"
+msgstr "再読込"
+
+#: includes/settings.php:1024
+msgid "To get the user consent status use the %scn_cookies_accepted()%s function."
+msgstr "ユーザーの同意ステータスを取得するには、%scn_cookies_accepted()%s関数を使用してください。"
+
+#: includes/settings.php:653
+msgid "Script blocking"
+msgstr "ブロックされるスクリプト"
+
+#: includes/settings.php:1818
+msgid "Are you sure you want to reset these settings to defaults?"
+msgstr "本当にこれらの設定を初期化してもよいですか ?"
+
+#: cookie-notice.php:1130 includes/settings.php:268 includes/settings.php:311
+msgid "Settings"
+msgstr "設定"
+
+#: includes/settings.php:1722
+msgid "Settings restored to defaults."
+msgstr "設定を初期化しました。"
+
+#: includes/settings.php:1219
+msgid "Select where all the plugin scripts should be placed."
+msgstr "スクリプトをどこに挿入するかを選択します。"
+
+#: includes/settings.php:1136
+msgid "Enter the full URL starting with http(s)://"
+msgstr "http:// から始まる完全な URL を入力してください"
+
+#: includes/settings.php:1123
+msgid "Select from one of your site's pages."
+msgstr "あなたのサイトのページから選択します"
+
+#: includes/settings.php:1112
+msgid "-- select page --"
+msgstr "-- ページを選択 --"
+
+#: includes/settings.php:1024
+msgid "Enter non functional cookies Javascript code here (for e.g. Google Analitycs) to be used after the notice is accepted."
+msgstr "Cookie の使用が承諾された後に使用される追跡 Cookie の Javascript コード (例. Google Analytics) を入力。"
+
+#: includes/settings.php:986
+msgid "Enable to give to the user the possibility to refuse third party non functional cookies."
+msgstr "サードパーティの追跡 Cookie を拒否する選択肢をユーザに提供します。"
+
+#: includes/settings.php:958
+msgid "Enter the cookie notice message."
+msgstr "Cookie に関する通知の文章を入力します。"
+
+#: includes/settings.php:1300
+msgid "Enable if you want all plugin data to be deleted on deactivation."
+msgstr "プラグインの無効化時にプラグインの全てのデータを削除したい場合、このオプションを有効化します。"
+
+#: includes/settings.php:667
+msgid "Colors"
+msgstr "色"
+
+#: includes/settings.php:666
+msgid "Animation"
+msgstr "アニメーション"
+
+#: includes/settings.php:665
+msgid "Position"
+msgstr "位置"
+
+#: includes/settings.php:637 includes/settings.php:661
+msgid "Deactivation"
+msgstr "無効化"
+
+#: includes/settings.php:660
+msgid "Script placement"
+msgstr "スクリプト位置"
+
+#: includes/settings.php:655
+msgid "On scroll"
+msgstr "スクロール時"
+
+#: includes/settings.php:649
+msgid "Button text"
+msgstr "ボタンテキスト"
+
+#: includes/settings.php:146 includes/settings.php:648
+msgid "Message"
+msgstr "メッセージ"
+
+#: includes/settings.php:456
+msgid "Reset to defaults"
+msgstr "デフォルトにリセット"
+
+#: includes/dashboard.php:515 includes/settings.php:267
+#: includes/welcome.php:420
+msgid "Cookie Notice"
+msgstr "Cookie Notice"
+
+#: includes/settings.php:221
+msgid "No"
+msgstr "いいえ"
+
+#: includes/settings.php:220
+msgid "Ok"
+msgstr "OK"
+
+#: includes/settings.php:219
+msgid "We use cookies to ensure that we give you the best experience on our website. If you continue to use this site we will assume that you are happy with it."
+msgstr "よりよいエクスペリエンスを提供するため、当ウェブサイトでは Cookie を使用しています。引き続き閲覧する場合、Cookie の使用を承諾したものとみなされます。"
+
+#: includes/settings.php:177
+msgid "Footer"
+msgstr "フッター"
+
+#: includes/settings.php:176
+msgid "Header"
+msgstr "ヘッダー"
+
+#: includes/settings.php:172
+msgid "Slide"
+msgstr "スライド"
+
+#: includes/settings.php:171
+msgid "Fade"
+msgstr "フェード"
+
+#: includes/settings.php:165
+msgid "infinity"
+msgstr "無期限"
+
+#: includes/consent-logs.php:136 includes/settings.php:164
+msgid "1 year"
+msgstr "1年"
+
+#: includes/consent-logs.php:134 includes/settings.php:163
+msgid "6 months"
+msgstr "6ヶ月"
+
+#: includes/consent-logs.php:132 includes/settings.php:162
+msgid "3 months"
+msgstr "3ヶ月"
+
+#: includes/consent-logs.php:130 includes/settings.php:161
+msgid "1 month"
+msgstr "1ヶ月"
+
+#: includes/settings.php:160
+msgid "1 week"
+msgstr "1週間"
+
+#: includes/settings.php:159
+msgid "1 day"
+msgstr "1日"
+
+#: includes/settings.php:152
+msgid "Bar color"
+msgstr "バーの色"
+
+#: includes/settings.php:150
+msgid "Text color"
+msgstr "テキスト色"
+
+#: includes/settings.php:138
+msgid "Page link"
+msgstr "ページリンク"
+
+#: includes/settings.php:139
+msgid "Custom link"
+msgstr "カスタムリンク"
+
+#: includes/settings.php:127 includes/settings.php:170
+msgid "None"
+msgstr "なし"
+
+#: includes/settings.php:123 includes/welcome.php:496
+msgid "Bottom"
+msgstr "下"
+
+#: includes/settings.php:122 includes/welcome.php:497
+msgid "Top"
+msgstr "上"

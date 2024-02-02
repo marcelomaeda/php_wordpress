@@ -1,0 +1,12 @@
+[02-Apr-2023 10:53:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[02-Apr-2023 10:53:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[02-Apr-2023 10:54:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Search_Handler' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17

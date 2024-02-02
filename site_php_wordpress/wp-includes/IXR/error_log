@@ -1,0 +1,16 @@
+[02-Apr-2023 10:37:44 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[02-Apr-2023 10:37:53 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/IXR/class-IXR-introspectionserver.php on line 9
+[16-Jan-2024 07:24:37 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Client' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/IXR/class-IXR-clientmulticall.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/IXR/class-IXR-clientmulticall.php on line 8
+[16-Jan-2024 07:25:01 UTC] PHP Fatal error:  Uncaught Error: Class 'IXR_Server' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/IXR/class-IXR-introspectionserver.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/IXR/class-IXR-introspectionserver.php on line 9

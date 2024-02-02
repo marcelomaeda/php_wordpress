@@ -1,0 +1,1468 @@
+# Translation of Plugins - Pricing Table by Supsystic - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Pricing Table by Supsystic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-23 09:21:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Pricing Table by Supsystic - Stable (latest release)\n"
+
+#: classes/field.php:402
+msgid "There are no configuration options for this module"
+msgstr "Il n'y a pas d'options de configuration pour ce module"
+
+#: classes/field.php:324
+msgid "Attributes"
+msgstr "Attributs"
+
+#: classes/field.php:323
+msgid "Click to set field \"id\" and \"class\""
+msgstr "Cliquez pour définir champ \"id\" et \"class\""
+
+#: classes/field.php:316
+msgid "height"
+msgstr "hauteur"
+
+#: classes/field.php:314
+msgid "width"
+msgstr "largeur"
+
+#: classes/field.php:311
+msgid "Dimensions"
+msgstr "Dimensions"
+
+#: classes/field.php:293
+msgid "Add Radio Button"
+msgstr "Ajouter bouton radio"
+
+#: classes/field.php:282 classes/field.php:287
+msgid "Add Item"
+msgstr "Ajouter un item"
+
+#: classes/field.php:277
+msgid "Add Checkbox"
+msgstr "Ajouter une case à cocher"
+
+#: classes/field.php:170 classes/field.php:179 classes/field.php:184
+msgid "N/A"
+msgstr "N/A"
+
+#: classes/model.php:230
+msgid "Empty or invalid ID"
+msgstr "ID vide ou invalide"
+
+#: classes/fieldAdapter.php:186
+msgid "id"
+msgstr "id"
+
+#: classes/fieldAdapter.php:184
+msgid "class"
+msgstr "class"
+
+#: classes/fieldAdapter.php:134
+msgid "Not selected"
+msgstr "Non sélectionné"
+
+#: classes/fieldAdapter.php:106
+msgid "Absolute"
+msgstr "Absolue"
+
+#: classes/fieldAdapter.php:105
+msgid "Tax Rate"
+msgstr "Taux de TVA"
+
+#: classes/fieldAdapter.php:103
+msgid "You have no brands"
+msgstr "Vous n'avez pas de marque"
+
+#: classes/fieldAdapter.php:102
+msgid "Brands"
+msgstr "Marques"
+
+#: classes/fieldAdapter.php:101
+msgid "You have no categories"
+msgstr "Vous n'avez pas de catégories"
+
+#: classes/fieldAdapter.php:100
+msgid "Categories"
+msgstr "Catégories"
+
+#: classes/fieldAdapter.php:97
+msgid "Country"
+msgstr "Pays"
+
+#: classes/fieldAdapter.php:96
+msgid "Destination"
+msgstr "Destination"
+
+#: classes/fieldAdapter.php:95
+msgid "Address"
+msgstr "Adresse"
+
+#: classes/fieldAdapter.php:93
+msgid "Apply To"
+msgstr "Appliquer à"
+
+#: classes/validator.php:88
+msgid "%s is already registered"
+msgstr "%s est déjà enregistré"
+
+#: classes/validator.php:85 classes/validator.php:101
+msgid "Invalid %s"
+msgstr "%s non valide"
+
+#: classes/validator.php:43
+msgid "Invalid numeric value for %s"
+msgstr "Valeur numérique non valide pour %s"
+
+#: classes/validator.php:30
+msgid "Invalid length for %s, max length is %s"
+msgstr "Longueur non valide pour %s, la longueur maximale est de %s"
+
+#: classes/html.php:660
+msgid "Select %s"
+msgstr "Sélectionner %s"
+
+#: classes/html.php:636
+msgid "OFF"
+msgstr "OFF"
+
+#: classes/html.php:635
+msgid "ON"
+msgstr "ON"
+
+#: classes/frame.php:136
+msgid "You have no permissions to view this page"
+msgstr "Vous n'avez pas d'autorisations pour afficher cette page"
+
+#: classes/table.php:294
+msgid "Database error. Please contact your developer."
+msgstr "Erreur de base de données. Veuillez contacter votre développeur."
+
+#: classes/table.php:278
+msgid "Nothig to update"
+msgstr "Rien à mettre à jour"
+
+#: classes/modInstaller.php:201
+msgid "Error Activating module"
+msgstr "Erreur activation du module"
+
+#: classes/modInstaller.php:184
+msgid "Error Deactivation module"
+msgstr "Erreur de désactivation du module"
+
+#: classes/modInstaller.php:155
+msgid "Error Activate module"
+msgstr "Erreur activation du module"
+
+#: classes/modInstaller.php:149
+msgid "Install %s failed"
+msgstr "L’installation de %s a échoué"
+
+#: classes/modInstaller.php:127
+msgid "No installation file were found"
+msgstr "Aucun fichier d'installation n'a été trouvé"
+
+#: classes/modInstaller.php:123
+msgid "No modules were found in installation file"
+msgstr "Aucun module n’a été trouvé dans le fichier d’installation"
+
+#: classes/modInstaller.php:110
+msgid "No XML file were found"
+msgstr "Le fichier XML est introuvable"
+
+#: classes/modInstaller.php:108
+msgid "Invalid XML file"
+msgstr "Fichier XML non valide"
+
+#: classes/modInstaller.php:104
+msgid "No modules were found in XML file"
+msgstr "Aucun module trouvé dans le fichier XML"
+
+#: classes/modInstaller.php:76
+msgid "Can not create module directory. Try to set permission to "
+msgstr "Impossible de créer un répertoire de modules. Essayez de redéfinir la permission de "
+
+#: classes/modInstaller.php:37
+msgid "%s is not plugin module"
+msgstr "%s n'est pas le module du plugin"
+
+#: classes/modInstaller.php:34
+msgid "Move files for %s failed"
+msgstr "Echec de déplacement des fichiers pour %s"
+
+#: modules/adminmenu/mod.php:16 modules/adminmenu/mod.php:17
+#: modules/adminmenu/mod.php:18
+msgid "Spread the word!"
+msgstr "Passez le mot!"
+
+#: modules/adminmenu/mod.php:15
+msgid "More plugins for your WordPress site here!"
+msgstr "Plus de plugins pour votre site WordPress ici!"
+
+#: modules/adminmenu/mod.php:13
+msgid "Cool WordPress plugins from supsystic.com developers. I tried %s - and this was what I need! #supsystic.com"
+msgstr "De superbes plugins WordPress de l'équipe de supsystic.com. J’ai essayé %s - et c’est ce dont j’avais besoin ! #supsystic.com"
+
+#: modules/mail/views/tpl/mailAdmin.php:29
+msgid "Bad, please contact your hosting provider and ask them to setup mail functionality on your server."
+msgstr "Désolé, SVP contactez votre hébergeur et demandez-lui de vérifier la fonctionnalité de messagerie sur votre serveur."
+
+#: modules/mail/views/tpl/mailAdmin.php:26
+msgid "Great! Mail function was tested and working fine."
+msgstr "Génial! La fonction de courrier a été testée et fonctionne très bien."
+
+#: modules/mail/views/tpl/mailAdmin.php:22
+msgid "No, I need to contact my hosting provider with mail function issue."
+msgstr "Non, je dois contacter mon hébergeur pour le problème de fonctionnement de la  messagerie."
+
+#: modules/mail/views/tpl/mailAdmin.php:18
+msgid "Yes! It work!"
+msgstr "Oui! Ça marche !"
+
+#: modules/mail/views/tpl/mailAdmin.php:15
+msgid "Did you received test email?"
+msgstr "Avez-vous reçu un courriel de test?"
+
+#: modules/mail/views/tpl/mailAdmin.php:12
+msgid "This option allow you to check your server mail functionality"
+msgstr "Cette option vous permet de vérifier la fonctionnalité de votre messagerie serveur"
+
+#: modules/mail/views/tpl/mailAdmin.php:10
+msgid "Send test"
+msgstr "Envoyer le test"
+
+#: modules/mail/views/tpl/mailAdmin.php:3
+msgid "Send test email to"
+msgstr "Envoyer un courriel test"
+
+#: modules/mail/controller.php:7
+msgid "Now check your email inbox / spam folders for test mail."
+msgstr "Veuillez vérifiez votre boîte de réception / dossier anti-spam pour le mail test."
+
+#: modules/mail/mod.php:51
+msgid "Email address used for all email notifications from plugin"
+msgstr "Adresse email utilisée pour toutes les notifications email du plugin"
+
+#: modules/mail/mod.php:51
+msgid "Notify Email"
+msgstr "Notifier l'e-mail"
+
+#: modules/mail/mod.php:50
+msgid "Mail function tested and work"
+msgstr "Fonction email testée et fonctionnelle"
+
+#: modules/mail/mod.php:48
+msgid "Mail"
+msgstr "Email"
+
+#: modules/mail/mod.php:35
+msgid "Can not send email - problem with send server"
+msgstr "Impossible de ne pas envoyer d'e-mail - problème avec envoyer le serveur"
+
+#: modules/mail/models/mail.php:15
+msgid "Empty email address"
+msgstr "Adresse email vide"
+
+#: modules/mail/models/mail.php:8
+msgid "This is test email for testing email functionality on your site, %s."
+msgstr "Il s'agit de test e-mail pour tester la fonctionnalité de messagerie sur votre site, %s."
+
+#: modules/mail/models/mail.php:7
+msgid "Test email functionslity"
+msgstr "Fonctionnalité de l'email de test"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:64
+msgid "Copy"
+msgstr "Copier"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:63
+msgid "New Name"
+msgstr "Nouveau nom"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:60
+msgid "Clone Table"
+msgstr "Table clone"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:56
+msgid "Delete"
+msgstr "Supprimer"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:48
+msgid "Clone"
+msgstr "Dupliquer"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:46
+msgid "Clone to New Table"
+msgstr "Clone à nouvelle table"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:42
+#: modules/tables/views/tpl/tablesEditFormControls.php:44
+#: modules/tables/views/tpl/tablesEditFormControls.php:79
+msgid "Edit HTML"
+msgstr "Éditer le HTML"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:38
+#: modules/tables/views/tpl/tablesEditFormControls.php:40
+#: modules/tables/views/tpl/tablesEditFormControls.php:73
+msgid "Edit Css"
+msgstr "Modifier Css"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:32
+msgid "Preview"
+msgstr "Aperçu"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:26
+msgid "Save all changes"
+msgstr "Sauvegarder toutes les modifications"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:11
+msgid "PHP code"
+msgstr "Code PHP"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:10
+msgid "Shortcode"
+msgstr "Code court"
+
+#: modules/tables/views/tpl/tablesEditFormControls.php:1
+msgid "Click to Edit"
+msgstr "Cliquez pour Éditer"
+
+#: modules/tables/views/tpl/tablesImportExport.php:48
+msgid "Success"
+msgstr "Succès"
+
+#: modules/tables/views/tpl/tablesImportExport.php:47
+msgid "Incorrect data!"
+msgstr "Données incorrectes !"
+
+#: modules/tables/views/tpl/tablesImportExport.php:8
+#: modules/tables/views/tpl/tablesImportExport.php:27
+msgid "Export"
+msgstr "Exporter"
+
+#: modules/tables/views/tpl/tablesImportExport.php:5
+#: modules/tables/views/tpl/tablesImportExport.php:52
+msgid "Import"
+msgstr "Importer"
+
+#: modules/tables/views/tpl/tablesAdmin.php:21
+msgid "You have no Tables for now. <a href=\"%s\" style=\"font-style: italic;\">Create</a> your First Table!"
+msgstr "Vous n'avez pas de tables pour l'instant. <a href=\"%s\" style=\"font-style: italic;\">Créez</a> votre première table!"
+
+#: modules/tables/views/tpl/tablesAdmin.php:11
+#: modules/tables/views/tpl/tablesAdmin.php:12
+#: modules/tables/views/tpl/tablesImportExport.php:14
+#: modules/tables/views/tpl/tablesImportExport.php:15
+msgid "Search"
+msgstr "Rechercher"
+
+#: modules/tables/views/tpl/tablesAdmin.php:5
+#: modules/tables/views/tpl/tablesAdmin.php:8
+msgid "Delete selected"
+msgstr "Supprimer la sélection"
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:58
+msgid "Are you sure want to change your current template - to "
+msgstr "Voulez-vous changer votre modèle actuel - à "
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:56
+#: modules/tables/views/tpl/tablesEditFormControls.php:36
+msgid "Change Template"
+msgstr "Changer de modèle"
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:41
+msgid "Selected"
+msgstr "Sélectionné"
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:41 classes/field.php:131
+msgid "Select"
+msgstr "Sélectionner"
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:39
+msgid "Get in PRO"
+msgstr "Entrez dans PRO"
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:16
+msgid "Table Name"
+msgstr "Nom de la table"
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:7
+msgid "Choose Table Template. You can change it later."
+msgstr "Choisissez Le modèle de table. Vous pouvez le changer plus tard."
+
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:5
+msgid "Change Template to any other from list below or <a class=\"button\" href=\"%s\">return to Table edit</a>"
+msgstr "Modifier le modèle à n'importe quel autre de la liste ci-dessous ou <a class=\"button\" href=\"%s\">revenir à la modification</a> de tableau"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:816
+msgid "Remove Row"
+msgstr "Supprimer la rangée"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:808
+msgid "Edit Tooltip for Cell"
+msgstr "Modifier Tooltip pour Cell"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:785
+msgid "Add One Cell"
+msgstr "Ajouter une cellule"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:780
+msgid "Combining with the next row"
+msgstr "Combinaison avec la rangée suivante"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:776
+msgid "Combining with the previous row"
+msgstr "Combinaison avec la rangée précédente"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:770
+msgid "Add row before"
+msgstr "Ajouter une ligne avant"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:765
+msgid "Add row after"
+msgstr "Ajouter une ligne après"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:761
+msgid "Move cell"
+msgstr "Déplacer la cellule"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:729
+msgid "Select position for Badge"
+msgstr "Sélectionnez la position pour badge"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:722
+msgid "Badge Text Color"
+msgstr "Couleur du texte du badge"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:715
+msgid "Badge Background Color"
+msgstr "Couleur d’arrière plan du badge"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:690
+msgid "Sale!"
+msgstr "Promo!"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:689
+msgid "Badge Label"
+msgstr "Label du badge"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:681
+msgid "Badges Library"
+msgstr "Bibliothèque d'insignes"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:668
+msgid "Close"
+msgstr "Fermer"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:664
+msgid "Nothing found for <span class=\"ptsNothingFoundKeys\"></span>, maybe try to search something else?"
+msgstr "Rien trouvé <span class=\"ptsNothingFoundKeys\"> </span>pour , peut-être essayer de chercher autre chose?"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:661
+msgid "Search, for example - pencil, music, ..."
+msgstr "Recherche, par exemple - crayon, musique, ..."
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:656
+msgid "Icons Library"
+msgstr "Bibliothèque d'icônes"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:475
+msgid "Icon Size"
+msgstr "Taille de l’icône"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:410
+#: modules/tables/views/tpl/tablesEditorFooter.php:470
+msgid "Change Icon"
+msgstr "Changer d'icône"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:394
+#: modules/tables/views/tpl/tablesEditorFooter.php:512
+#: modules/tables/views/tpl/tablesEditorFooter.php:607
+msgid "Button"
+msgstr "Bouton"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:361
+msgid "To"
+msgstr "À"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:356
+msgid "From"
+msgstr "De"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:353
+msgid "Schedule"
+msgstr "Planifier"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:338
+msgid "Schedule column"
+msgstr "Colonne de l'annexe"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:335
+msgid "Badge for Column"
+msgstr "Insigne pour colonne"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:298
+msgid "Background Image"
+msgstr "Image d’arrière-plan"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:209
+#: modules/tables/views/tpl/tablesEditorFooter.php:388
+#: modules/tables/views/tpl/tablesEditorFooter.php:601
+msgid "Icon"
+msgstr "Icône"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:203
+#: modules/tables/views/tpl/tablesEditorFooter.php:382
+#: modules/tables/views/tpl/tablesEditorFooter.php:506
+msgid "Image / Video"
+msgstr "Image / Vidéo"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:188
+#: modules/tables/views/tpl/tablesEditorFooter.php:414
+#: modules/tables/views/tpl/tablesEditorFooter.php:479
+msgid "Color"
+msgstr "Couleur"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:157
+#: modules/tables/views/tpl/tablesEditorFooter.php:233
+#: modules/tables/views/tpl/tablesEditorFooter.php:450
+#: modules/tables/views/tpl/tablesEditorFooter.php:543
+#: modules/tables/views/tpl/tablesEditorFooter.php:637
+msgid "add nofollow attribute"
+msgstr "ajouter l'attribut nofollow"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:153
+#: modules/tables/views/tpl/tablesEditorFooter.php:229
+#: modules/tables/views/tpl/tablesEditorFooter.php:446
+#: modules/tables/views/tpl/tablesEditorFooter.php:539
+#: modules/tables/views/tpl/tablesEditorFooter.php:633
+msgid "open link in a new window"
+msgstr "lien ouvert dans une nouvelle fenêtre"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:148
+#: modules/tables/views/tpl/tablesEditorFooter.php:224
+#: modules/tables/views/tpl/tablesEditorFooter.php:441
+#: modules/tables/views/tpl/tablesEditorFooter.php:534
+#: modules/tables/views/tpl/tablesEditorFooter.php:628
+msgid "title"
+msgstr "titre"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:137
+#: modules/tables/views/tpl/tablesEditorFooter.php:143
+#: modules/tables/views/tpl/tablesEditorFooter.php:219
+#: modules/tables/views/tpl/tablesEditorFooter.php:273
+#: modules/tables/views/tpl/tablesEditorFooter.php:436
+#: modules/tables/views/tpl/tablesEditorFooter.php:529
+#: modules/tables/views/tpl/tablesEditorFooter.php:617
+#: modules/tables/views/tpl/tablesEditorFooter.php:623
+msgid "link"
+msgstr "lien"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:131
+#: modules/tables/views/tpl/tablesEditorFooter.php:162
+#: modules/tables/views/tpl/tablesEditorFooter.php:182
+#: modules/tables/views/tpl/tablesEditorFooter.php:238
+#: modules/tables/views/tpl/tablesEditorFooter.php:426
+#: modules/tables/views/tpl/tablesEditorFooter.php:455
+#: modules/tables/views/tpl/tablesEditorFooter.php:493
+#: modules/tables/views/tpl/tablesEditorFooter.php:548
+#: modules/tables/views/tpl/tablesEditorFooter.php:580
+#: modules/tables/views/tpl/tablesEditorFooter.php:642
+#: modules/tables/views/tpl/tablesEditorFooter.php:861
+msgid "Tooltip"
+msgstr "Info-bulle"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:125
+#: modules/tables/views/tpl/tablesEditorFooter.php:175
+#: modules/tables/views/tpl/tablesEditorFooter.php:420
+#: modules/tables/views/tpl/tablesEditorFooter.php:486
+#: modules/tables/views/tpl/tablesEditorFooter.php:573
+msgid "Link"
+msgstr "Lien"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:117
+#: modules/tables/views/tpl/tablesEditorFooter.php:262
+#: modules/tables/views/tpl/tablesEditorFooter.php:587
+msgid "Video"
+msgstr "Vidéo"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:109
+#: modules/tables/views/tpl/tablesEditorFooter.php:254
+#: modules/tables/views/tpl/tablesEditorFooter.php:565
+msgid "Select image"
+msgstr "Sélectionner une image"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:90
+msgid "Subscribe Settings"
+msgstr "Paramètres d’abonnement"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:82
+msgid "Add Field"
+msgstr "Ajouter un champ"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:71
+msgid "Background Image..."
+msgstr "Image de fond..."
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:57
+#: modules/tables/views/tpl/tablesEditorFooter.php:288
+#: modules/tables/views/tpl/tablesEditorFooter.php:323
+msgid "Fill Color"
+msgstr "Couleur de remplissage"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:49
+msgid "Manage Slides"
+msgstr "Gérer les diapositives (Slides)"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:41
+msgid "Add Menu Item"
+msgstr "Ajouter un élément de menu"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:33
+msgid "Add Image"
+msgstr "Ajouter une image"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:25
+msgid "Add Slide"
+msgstr "Ajouter une diapo"
+
+#: modules/tables/views/tpl/tablesEditorFooter.php:5
+msgid "Content align"
+msgstr "Contenu aligné"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:586
+msgid "Please be adviced that all columns in your table have enabled Fill color feature - so changing background color for table may not influence to all table view, or maybe will not influence to table view at all (depending of template that you selected for your table)."
+msgstr "S'il vous plaît être conseillé que toutes les colonnes de votre table ont activé remplir la fonction couleur - de sorte que la couleur de fond changeante pour la table peut ne pas influencer à toute la vue de table, ou peut-être ne sera pas influencer à la vue de table à tous (selon le modèle que vous avez sélectionné pour votre table)."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:585
+msgid "Notice"
+msgstr "Notification"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:508
+#: modules/tables/views/tpl/tablesEditAdmin.php:532
+#: modules/tables/views/tpl/tablesEditAdmin.php:557
+msgid "Default selected"
+msgstr "Sélectionné par défaut"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:447
+msgid "Switch name"
+msgstr "Commutateur"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:437
+msgid "Choose switch button text color (not active position)"
+msgstr "Choisissez la couleur de texte de bouton de commutateur (pas la position active)"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:431
+msgid "But. text color (not active)"
+msgstr "Couleur de texte de bouton (non actif)"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:430
+msgid "Button text color (not active)"
+msgstr "Couleur de texte de bouton (non actif)"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:427
+msgid "Choose switch button text color"
+msgstr "Choisissez la couleur de texte de bouton de commutateur"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:421
+msgid "Switch but. text color"
+msgstr "Commutateur, couleur de texte"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:420
+msgid "Button text color"
+msgstr "Couleur texte bouton"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:417
+msgid "Choose switch button background color"
+msgstr "Choisissez la couleur d'arrière-plan de bouton de commutateur"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:411
+msgid "Switch but. color"
+msgstr "Commutateur, Bouton Couleur"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:410
+msgid "Button color"
+msgstr "Couleur du bouton"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:406
+msgid "Choose switch button border color"
+msgstr "Choisissez la couleur de bordure de bouton d'interrupteur"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:400
+msgid "Switch but. border color"
+msgstr "Commutateur, bouton couleur de bordure"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:399
+msgid "Button border color"
+msgstr "Couleur de bordure du bouton"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:393
+msgid "Select switch horizontal position"
+msgstr "Sélectionnez la position horizontale de commutateur"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:387
+msgid "Align"
+msgstr "Alignement"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:382
+msgid "Choose vertical position for switch"
+msgstr "Choisissez la position verticale pour le commutateur"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:376
+msgid "Select position"
+msgstr "Sélectionnez la position"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:371
+msgid "Select switch type. Toggle button allows to show only first two options"
+msgstr "Sélectionnez le type de commutateur. Le bouton Toggle permet d'afficher uniquement les deux premières options"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:365
+msgid "Select type"
+msgstr "Sélectionnez le type"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:360
+msgid "Text placed above the switch"
+msgstr "Texte placé au-dessus de l'interrupteur"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:354
+#: modules/tables/views/tpl/tablesEditAdmin.php:355
+#: modules/tables/views/tpl/tablesEditorFooter.php:197
+#: modules/tables/views/tpl/tablesEditorFooter.php:376
+#: modules/tables/views/tpl/tablesEditorFooter.php:500
+#: modules/tables/views/tpl/tablesEditorFooter.php:595
+msgid "Text"
+msgstr "Texte"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:350
+msgid "Enable Switch Toggle.  You need add at list two options to use switch toggle button functionality!"
+msgstr "Activer Switch Toggle.  Vous devez ajouter à la liste deux options pour utiliser la fonctionnalité de bouton de bascule de commutateur !"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:344
+#: modules/tables/views/tpl/tablesEditAdmin.php:345
+msgid "Enable Switch Toggle"
+msgstr "Activer switch Toggle"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:329
+msgid "To enable Toggle option order PRO version. As low as $29"
+msgstr "Activer la bascule pour le prix avec la version PRO. Seulement à $29"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:323
+msgid "Disable supsystic styles for tooltips in your pricing table"
+msgstr "Disable styles supsystic pour les conseils d'outils dans votre tableau de tarification"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:320
+#: modules/tables/views/tpl/tablesEditAdmin.php:321
+msgid "Disable Custom Tooltip Styles"
+msgstr "Désactiver les styles de conseils d'outils personnalisés"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:311
+msgid "Enb. Responsive Text"
+msgstr "Enb. Texte responsive"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:310
+msgid "Enable Responsive Text"
+msgstr "Activer le texte responsive"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:301
+msgid "Animate column when mouse is hovering on it. Will work ONLY on frontend, disabled in admin area WySiWyg editor as it can break it in edit mode."
+msgstr "Animer la colonne lorsque la souris est planant sur elle. Fonctionnera uniquement sur frontend, désactivé dans la zone d'administration WySiWyg éditeur car il peut le briser en mode de modification."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:300
+msgid "Enable Hover Animation"
+msgstr "Activer l'animation Hover"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:291
+msgid "By ubchecking the box you hide description row in all columns."
+msgstr "En vérifiant la case, vous cachez la ligne de description dans toutes les colonnes."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:290
+msgid "Enb. Description Row"
+msgstr "Enb. Ligne de description"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:279
+msgid "By ubchecking the box you hide footer row in all columns. Usually it is last row in table."
+msgstr "En vérifiant la boîte, vous cachez la ligne pied dans toutes les colonnes. Habituellement, il est dernière rangée dans la table."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:277
+msgid "Enb. Footer Row"
+msgstr "Enb. Ligne De Footer"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:277
+msgid "Enb. Footer Column"
+msgstr "Enb. Colonne Footer"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:272
+msgid "Enable Footer Row"
+msgstr "Activer Footer Row"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:272
+msgid "Enable Footer Column"
+msgstr "Activer la colonne Footer"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:261
+msgid "By unchecking the box you hide head row in all columns. Usually it is the first row in table."
+msgstr "En décochant la case, vous cachez la ligne de tête dans toutes les colonnes. Habituellement, c'est la première rangée dans la table."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:259
+msgid "Enb. Head Row"
+msgstr "Enb. Ligne de tête"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:259
+msgid "Enb. Head Column"
+msgstr "Enb. Colonne de tête"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:255
+msgid "Enable Head Row"
+msgstr "Activer la ligne de tête"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:255
+msgid "Enable Head Column"
+msgstr "Activer la colonne de tête"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:244
+msgid "Add additional description column into table. You can add there descriptions for your rows."
+msgstr "Ajoutez une colonne de description supplémentaire dans le tableau. Vous pouvez y ajouter des descriptions pour vos lignes."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:242
+msgid "Enb. Desc. Col"
+msgstr "Enb. Desc. Col"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:242
+msgid "Enb. Desc. Row"
+msgstr "Enb. Desc. Ligne"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:239
+msgid "Enable Description Column"
+msgstr "Activer la colonne de description"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:239
+#: modules/tables/views/tpl/tablesEditAdmin.php:289
+msgid "Enable Description Row"
+msgstr "Activer la ligne de description"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:229
+msgid "Common text color for table. You can always specify text color for any text element inside table using text editor."
+msgstr "Couleur de texte commune pour la table. Vous pouvez toujours spécifier la couleur du texte pour n'importe quel élément de texte à l'intérieur de la table à l'aide de l'éditeur de texte."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:223
+msgid "Rows Text Color"
+msgstr "Couleur de texte de lignes"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:218
+msgid "Vertical padding for column."
+msgstr "Padding vertical pour colonne."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:212
+msgid "Vert. Padding"
+msgstr "Vert. Padding"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:211
+msgid "Vertical Padding"
+msgstr "Marge interne verticale"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:206
+msgid "Text color for table columns header element. You can always specify text color for any text element inside table using text editor."
+msgstr "Couleur de texte pour l'élément d'en-tête de colonnes de table. Vous pouvez toujours spécifier la couleur du texte pour n'importe quel élément de texte à l'intérieur de la table à l'aide de l'éditeur de texte."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:200
+msgid "Header Text Color"
+msgstr "Couleur du texte d’en-tête"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:195
+msgid "Common background color for table."
+msgstr "Couleur commune de fond pour la table."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:189
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:184
+msgid "Text color for table columns description element. You can always specify text color for any text element inside table using text editor."
+msgstr "Couleur de texte pour élément de description de colonnes de table. Vous pouvez toujours spécifier la couleur du texte pour n'importe quel élément de texte à l'intérieur de la table à l'aide de l'éditeur de texte."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:178
+msgid "Desc. Text Color"
+msgstr "Desc. Couleur de texte"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:177
+msgid "Description Text Color"
+msgstr "Couleur du texte de description"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:172
+msgid "Table align in page: left, center, right, none"
+msgstr "Tableau aligner dans la page: gauche, centre, droite, aucun"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:166
+msgid "Table Align"
+msgstr "Tableau Align"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:161
+msgid "Font for table. You can always set other font for any text element using text editor tool. Just click on text - and start edit it!"
+msgstr "Font pour table. Vous pouvez toujours définir d'autres polices pour n'importe quel élément texte à l'aide de l'outil d'éditeur de texte. Il suffit de cliquer sur le texte - et commencer à l'éditer!"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:156
+msgid "Font"
+msgstr "Police"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:148
+msgid "Column width (is indicated in pixels by default) at which table will go to responsive mode"
+msgstr "Largeur de colonne (indiquée en pixels par défaut) à laquelle la table passera en mode réactif"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:147
+#: modules/tables/views/tpl/tablesEditAdmin.php:217
+msgid "px"
+msgstr "px"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:142
+msgid "Min Column Width"
+msgstr "Largeur de colonne min"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:136
+msgid "When device screen is small (mobile device or some tablets) usually table will go into responsive mode: all columns will be shown one-by-one below each other. But if you need to disable this feature - you can do this with this option. This feature influences only on frontend table view."
+msgstr "Lorsque l'écran de l'appareil est petit (appareil mobile ou certaines tablettes) table généralement passer en mode réactif: toutes les colonnes seront affichées un par un en dessous de l'autre. Mais si vous avez besoin de désactiver cette fonctionnalité - vous pouvez le faire avec cette option. Cette fonctionnalité n'influence que sur la vue de table frontend."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:135
+msgid "Enb. Responsivity"
+msgstr "Enb. Sensibilité"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:134
+msgid "Enable Responsivity"
+msgstr "Activer la réceptivité"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:125
+msgid "Text align in table: left, center, right"
+msgstr "Texte aligné dans la table : gauche, centre, droite"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:119
+msgid "Text Align"
+msgstr "Alignement du texte"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:113
+msgid "Set width for each column. Total table width in this case will be calculated as sum of all your columns width."
+msgstr "Définir la largeur pour chaque colonne. La largeur totale de la table dans ce cas sera calculée comme une somme de toute la largeur de vos colonnes."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:107
+msgid "Column Width"
+msgstr "Largeur colonne"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:97
+msgid "Set width for table. Width for each column in this case will be calculated as width of whole table divided for total columns number."
+msgstr "Définir la largeur pour la table. La largeur de chaque colonne dans ce cas sera calculée comme largeur de la table entière divisée pour le nombre total de colonnes."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:77
+msgid "Tbl. Width"
+msgstr "Tbl. Largeur"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:76
+msgid "Table Width"
+msgstr "Largeur de la table"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:46
+#: modules/tables/views/tpl/tablesEditAdmin.php:64
+msgid "New column will be added in the end of your table."
+msgstr "Une nouvelle colonne sera ajoutée à la fin de votre table."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:44
+#: modules/tables/views/tpl/tablesEditAdmin.php:66
+msgid "New row will be added in the end of your table rows area."
+msgstr "Une nouvelle ligne sera ajoutée à l'extrémité de votre zone de rangées de table."
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:40
+#: modules/tables/views/tpl/tablesEditAdmin.php:61
+msgid "Add Col"
+msgstr "Ajouter Colonne"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:39
+#: modules/tables/views/tpl/tablesEditorFooter.php:98
+msgid "Add Column"
+msgstr "Ajouter une colonne"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:36
+#: modules/tables/views/tpl/tablesEditAdmin.php:37
+#: modules/tables/views/tpl/tablesEditAdmin.php:61
+msgid "Add Row"
+msgstr "Ajouter une rangée"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:29
+#: modules/tables/views/tpl/tablesEditAdmin.php:54
+msgid "Cols"
+msgstr "Colonnes"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:28
+msgid "Columns"
+msgstr "Colonnes"
+
+#: modules/tables/views/tpl/tablesEditAdmin.php:25
+#: modules/tables/views/tpl/tablesEditAdmin.php:26
+#: modules/tables/views/tpl/tablesEditAdmin.php:54
+msgid "Rows"
+msgstr "Lignes"
+
+#: modules/tables/views/tables.php:69 modules/tables/views/tables.php:100
+msgid "Cannot find required Table"
+msgstr "Ne pas trouver la table requise"
+
+#: modules/tables/views/tables.php:59
+msgid "Modify Table Template"
+msgstr "Modifier le modèle de table"
+
+#: modules/tables/controller.php:243
+msgid "Done, redirecting to new Table..."
+msgstr "Fait, redirection vers la nouvelle table..."
+
+#: modules/tables/mod.php:29
+msgid "Tables Import / Export"
+msgstr "Tables Importation / Exportation"
+
+#: modules/tables/mod.php:26
+msgid "Show All Tables"
+msgstr "Tout afficher"
+
+#: modules/tables/mod.php:23
+msgid "Edit"
+msgstr "Editer"
+
+#: modules/tables/mod.php:20
+msgid "Add New Table"
+msgstr "Ajoutez un nouveau tableau"
+
+#: modules/tables/models/tables.php:321
+msgid "Where is ID?"
+msgstr "Où est ID ?"
+
+#: modules/tables/models/tables.php:304
+msgid "Provided data was corrupted"
+msgstr "Les données fournies sont corrompues"
+
+#: modules/tables/models/tables.php:196
+msgid "Name can not be empty"
+msgstr "Le nom ne peut pas être vide"
+
+#: modules/tables/models/tables.php:47 modules/tables/models/tables.php:198
+#: classes/model.php:188
+msgid "Invalid ID"
+msgstr "ID non valide"
+
+#: modules/tables/models/tables.php:45 modules/tables/models/tables.php:65
+#: classes/model.php:186 classes/model.php:198
+msgid "Database error detected"
+msgstr "Erreur de base de données détectée"
+
+#: modules/tables/models/tables.php:32 modules/tables/models/tables.php:323
+msgid "Please enter Name"
+msgstr "Veuillez saisir le nom"
+
+#: modules/tables/models/tables.php:30
+msgid "Please select Table template from list below"
+msgstr "S'il vous plaît sélectionnez le modèle de table de la liste ci-dessous"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:52
+msgid "PRO option"
+msgstr "Option PRO"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:45
+#: modules/mail/views/tpl/mailAdmin.php:48
+msgid "Turned Off %s"
+msgstr "Désactivée sur %s"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:44
+#: modules/mail/views/tpl/mailAdmin.php:47
+msgid "Turned On %s"
+msgstr "Activée sur %s"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:6
+#: modules/tables/views/tpl/tablesEditorFooter.php:751
+#: modules/tables/views/tpl/tablesAddNewAdmin.php:21
+#: modules/tables/views/tpl/tablesEditFormControls.php:28
+#: modules/mail/views/tpl/mailAdmin.php:69
+msgid "Save"
+msgstr "Enregistrer"
+
+#: modules/options/views/tpl/optionsSettingsTabContent.php:3
+msgid "Save all options"
+msgstr "Enregistrer toutes les options"
+
+#: modules/options/views/tpl/optionsAdminPage.php:38
+msgid "Please be advised that this option is available only in <a target=\"_blank\" href=\"%s\">PRO version</a>. You can <a target=\"_blank\" href=\"%s\" class=\"button\">Get PRO</a> today and get this and other PRO option for your Pricing Tables!"
+msgstr "Veuillez noter que cette option n'est disponible que dans la <a target=\"_blank\" href=\"%s\">version PRO</a>. Vous pouvez <a target=\"_blank\" href=\"%s\" class=\"button\">obtenir PRO</a> aujourd'hui et obtenir cette option ET d'autres PRO pour vos tables de tarification!"
+
+#: modules/options/views/tpl/optionsAdminPage.php:36
+msgid "Improve Free version"
+msgstr "Améliorer la version gratuite"
+
+#: modules/options/views/tpl/optionsAdminMain.php:18
+msgid "Main page Go here!!!!"
+msgstr "Page d’accueil Allez-y !!!"
+
+#: modules/options/controller.php:6 modules/tables/controller.php:6
+#: modules/tables/controller.php:117 modules/tables/controller.php:126
+#: modules/tables/controller.php:134 modules/tables/controller.php:252
+#: modules/mail/controller.php:23 classes/controller.php:214
+#: classes/controller.php:222
+msgid "Done"
+msgstr "Terminé"
+
+#: modules/options/mod.php:119
+msgid "By default our plugin is using CDN server to store there part of it's files - images, javascript and CSS libraries. This was designed in that way to reduce plugin size, make it lighter and easier for usage. But if you need to store all files - on your server - you can disable this option here, then upload plugin CDN files from <a href=\"%s\" target=\"_blank\">here</a> to your own site to %s folder."
+msgstr "Par défaut, notre plugin utilise le serveur CDN pour stocker une partie de ses fichiers - images, javascript et bibliothèques CSS. Ceci a été conçu de cette façon pour réduire la taille du plugin, le rendre plus léger et plus facile à utiliser. Mais si vous avez besoin de stocker tous les fichiers - sur votre serveur - vous pouvez désactiver cette option ici, puis télécharger des fichiers CDN plugin à partir <a href=\"%s\" target=\"_blank\">d'ici</a> à votre propre site à %s dossier."
+
+#: modules/options/mod.php:119
+msgid "Disable CDN usage"
+msgstr "Désactiver l'utilisation du CDN"
+
+#: modules/options/mod.php:118
+msgid "By default our plugin will make autosave of all your changes that you do in Pricing Table edit screen, but you can disable this feature here. Just don't forget to save your Pricing Table each time you make any changes in it."
+msgstr "Par défaut, notre plugin fera autosave de toutes vos modifications que vous faites dans l'écran de modification de la table de tarification, mais vous pouvez désactiver cette fonctionnalité ici. N'oubliez pas d'enregistrer votre tableau de tarification chaque fois que vous y apporterez des modifications."
+
+#: modules/options/mod.php:118
+msgid "Disable autosave in Pricing Table"
+msgstr "Désactiver l'enregistrement automatique dans le tableau des prix"
+
+#: modules/options/mod.php:117
+msgid "User with the next roles will have access to the whole plugin from admin area."
+msgstr "L'utilisateur avec les rôles suivants aura accès à l'ensemble du plugin de la zone d'administration."
+
+#: modules/options/mod.php:117
+msgid "User with such role can use plugin"
+msgstr "L'utilisateur avec un tel rôle peut utiliser le plugin"
+
+#: modules/options/mod.php:116
+msgid "We are trying to make our plugin better for you, and you can help us with this. Just check this option - and small promotion link will be added in the bottom of your Pricing Table. This is easy for you - but very helpful for us!"
+msgstr "Nous essayons de rendre notre plugin mieux pour vous, et vous pouvez nous aider avec cela. Il suffit de vérifier cette option - et petit lien de promotion sera ajouté dans le bas de votre tableau de tarification. C'est facile pour vous - mais très utile pour nous!"
+
+#: modules/options/mod.php:116
+msgid "Enable promo link"
+msgstr "Activer le lien promo"
+
+#: modules/options/mod.php:115
+msgid "Send information about what plugin options you prefer to use, this will help us to make our solution better for You."
+msgstr "Envoyer des informations sur les options de plugin que vous préférez utiliser, cela nous aidera à rendre notre solution meilleure pour vous."
+
+#: modules/options/mod.php:115
+msgid "Send usage statistics"
+msgstr "Envoyer les statistiques d'utilisation"
+
+#: modules/options/mod.php:113
+msgid "General"
+msgstr "Général"
+
+#: modules/options/mod.php:46 modules/adminmenu/mod.php:14
+msgid "Settings"
+msgstr "Réglages"
+
+#: modules/options/models/options.php:63
+msgid "Empty data to save option"
+msgstr "Données vide pour l'option de sauvegarde"
+
+#: modules/options/models/modules.php:50
+msgid "Error module ID"
+msgstr "Erreur ID module"
+
+#: modules/options/models/modules.php:47
+msgid "Module Update Failed"
+msgstr "Échec de mise à jour du module"
+
+#: modules/options/models/modules.php:32
+msgid "Module Updated"
+msgstr "Mise à jour des modules"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:82
+msgid "Kinsta Hosting"
+msgstr "Hébergement Kinsta"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:81
+msgid "Digital Publication WordPress Plugin by Supsystic for Magazines, Catalogs, Portfolios. Convert images, posts, PDF to the page flip book."
+msgstr "Plugin de Publication numérique par Supsystic pour les magazines, catalogues, portfolios. Convertir des images, des messages, PDF vers une page flip book."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:81
+msgid "Digital Publication Plugin"
+msgstr "Digital Publication Plugin"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:80
+msgid "Display custom Google Maps. Set markers and locations with text, images, categories and links. Customize google map in a simple and intuitive way."
+msgstr "Afficher des cartes Google personnalisées. Définissez des marqueurs et des emplacements avec du texte, des images, des catégories et des liens. Personnalisez Google map de manière simple et intuitive."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:80
+msgid "Google Maps Easy"
+msgstr "Google Maps Easy"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:79
+msgid "Backup and Restore WordPress Plugin by Supsystic provides quick and unhitched DropBox, FTP, Amazon S3, Google Drive backup for your WordPress website."
+msgstr "Plugin de Sauvegarde et restauration WordPress par Supsystic fournissant une sauvegarde rapide et détachable sur DropBox, FTP, Amazon S3, Google Drive pour votre site WordPress."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:79
+msgid "Backup Plugin"
+msgstr "Backup Plugin"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:78
+msgid "Coming soon page with drag-and-drop builder or under construction | maintenance mode to notify visitors and collects emails."
+msgstr "Page \"Bientôt Disponible\" ou \"en Construction\" / Mode maintenance pour informer les visiteurs et récupérer les adresses mail. Fourni avec un éditeur Glisser / déposer facile."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:78
+msgid "Coming Soon Plugin"
+msgstr "Coming Soon Plugin"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:77
+msgid "It’s never been so easy to create and manage pricing and comparison tables with table builder. Any element of the table can be customise with mouse click."
+msgstr "Il n'a jamais été aussi facile de créer et de gérer des tableaux de prix et de comparaison avec un constructeur de table. Tout élément de la table peut être personnalisé en un clic de souris."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:77
+#: modules/tables/mod.php:77
+msgid "Pricing Table"
+msgstr "Tableau de prix"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:76
+msgid "Be closer to your visitors and customers with Live Chat Support by Supsystic. Help you visitors, support them in real-time with exceptional Live Chat WordPress plugin by Supsystic."
+msgstr "Soyez plus proche de vos visiteurs et clients avec Live Chat Support par Supsystic. Aidez vos visiteurs, soutenez-les en temps réel avec le plugin WordPress exceptionnel Live Chat de Supsystic."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:76
+msgid "Live Chat Plugin"
+msgstr "Live Chat Plugin"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:75
+msgid "Social share buttons to increase social traffic and popularity. Social sharing to Facebook, Twitter and other social networks."
+msgstr "Boutons de partage des réseaux sociaux pour augmenter le trafic social et la popularité. Partage social sur Facebook, Twitter et autres réseaux sociaux."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:75
+msgid "Social Share Buttons"
+msgstr "Social Share Buttons"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:74
+msgid "Creating slideshows with Slider plugin is fast and easy. Simply select images from your WordPress Media Library, Flickr, Instagram or Facebook, set slide captions, links and SEO fields all from one page."
+msgstr "Créer des diaporamas avec le plugin Slider est rapide et facile. Il suffit de sélectionner des images de votre bibliothèque WordPress, Flickr, Instagram ou Facebook, définissez des légendes de diapositives, des liens et des champs SEO à partir d'une seule page."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:74
+msgid "Slider Plugin"
+msgstr "Extension slider"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:73
+msgid "Create and manage beautiful data tables with custom design. No HTML knowledge is required."
+msgstr "Créez et gérez de beaux tableaux de données avec un design personnalisé. Aucune connaissance HTML n'est requise."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:73
+msgid "Data Tables Generator"
+msgstr "Data Tables Generator"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:72
+msgid "Create online membership community with custom user profiles, roles, FrontEnd registration and login. Members Directory, activity, groups, messages."
+msgstr "Créez une communauté d'adhésion en ligne avec des profils d'utilisateurs personnalisés, des rôles, l'enregistrement FrontEnd et la connexion. Répertoire des membres, activité, groupes, messages."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:72
+msgid "Membership by Supsystic"
+msgstr "Adhésion par Supsystic"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:71
+msgid "Supsystic Newsletter plugin for automatic mailing of your letters. You will have no need to control it or send them manually. No coding, hard skills or long hours of customizing are required."
+msgstr "Plugin de Newsletter par Supsystic pour l'envoi automatique de vos lettres. Aucun codage, compétences techniques ou de longues heures de personnalisation ne sont nécessaires."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:71
+msgid "Newsletter Plugin"
+msgstr "Newsletter Plugin"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:70
+msgid "One of the best plugin for creating Contact Forms on your WordPress site. Changeable fonts, backgrounds, an option for adding fields etc."
+msgstr "L'un des meilleurs plugins pour créer des formulaires de contact sur votre site WordPress. Polices modifiables, arrière-plans, option pour ajouter des champs, etc."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:70
+msgid "Contact Form Plugin"
+msgstr "Formulaire de contact Plugin"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:69
+msgid "Photo Gallery Plugin with a great number of layouts will help you to create quality respectable portfolios and image galleries."
+msgstr "Plugin de galerie de photos avec un grand nombre de mises en page pour vous aider à créer des portfolio de bonne qualité et des galeries d'images."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:69
+msgid "Photo Gallery Plugin"
+msgstr "Photo Gallery Plugin"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:68
+msgid "The Best WordPress PopUp option plugin to help you gain more subscribers, social followers or advertisement. Responsive pop-ups with friendly options."
+msgstr "Le meilleur plugin de PopUp de WordPress pour vous aider à gagner plus d'abonnés, de followers sociaux ou de publicité. Popups responsive avec options conviviales."
+
+#: modules/supsystic_promo/views/supsystic_promo.php:68
+msgid "Popup Plugin"
+msgstr "Popup Plugin"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:46
+#: modules/supsystic_promo/views/supsystic_promo.php:51
+#: modules/supsystic_promo/views/supsystic_promo.php:53
+#: modules/supsystic_promo/views/supsystic_promo.php:54
+msgid "No"
+msgstr "Non"
+
+#: modules/supsystic_promo/views/supsystic_promo.php:46
+#: modules/supsystic_promo/views/supsystic_promo.php:51
+#: modules/supsystic_promo/views/supsystic_promo.php:53
+#: modules/supsystic_promo/views/supsystic_promo.php:54
+msgid "Yes"
+msgstr "Oui"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:66
+msgid "Your email was send, we will try to respond to you as soon as possible. Thank you for support!"
+msgstr "Votre e-mail a été envoyé, nous allons essayer de vous répondre dès que possible. Merci pour votre soutien!"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:57
+msgid "Send email"
+msgstr "Envoyer l'email"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:25
+msgid "Contact form"
+msgstr "Formulaire de contact"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:12
+msgid "Server Settings"
+msgstr "Paramètres serveur"
+
+#: modules/supsystic_promo/views/tpl/overviewTabContent.php:6
+#: modules/supsystic_promo/views/supsystic_promo.php:82
+msgid "If you want to host a business site or a blog, Kinsta managed WordPress hosting is the best place to stop on. Without any hesitation, we can say Kinsta is incredible when it comes to uptime and speed."
+msgstr "Si vous voulez héberger un site d'affaires ou un blog, Kinsta géré WordPress hébergement est le meilleur endroit. Sans aucune hésitation, nous pouvons dire Kinsta est incroyable quand il s'agit de temps de disponibilité et de vitesse."
+
+#: modules/supsystic_promo/views/tpl/featuredPlugins.php:35
+msgid "Download"
+msgstr "Télécharger"
+
+#: modules/supsystic_promo/views/tpl/featuredPlugins.php:31
+msgid "More info"
+msgstr "En savoir plus"
+
+#: modules/supsystic_promo/views/tpl/featuredPlugins.php:6
+msgid "Check It out"
+msgstr "A considérer"
+
+#: modules/supsystic_promo/views/tpl/featuredPlugins.php:3
+msgid "Get plugins bundle today and save over 80%"
+msgstr "Obtenez le pack de plugins dès aujourd'hui et économisez plus de 80%"
+
+#: modules/supsystic_promo/views/tpl/discountMsg.php:38
+msgid "Buy Now"
+msgstr "Acheter maintenant"
+
+#: modules/supsystic_promo/views/tpl/discountMsg.php:37
+msgid "Upgrade to bundle and get an access to <a href=\"%s\" target=\"_blank\">all 14 plugins</a> more than 80%% off!"
+msgstr "Mise à niveau pour emballer et obtenir un accès à <a href=\"%s\" target=\"_blank\">tous les 14 plugins</a> de plus de 80%% de remise!"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:9
+msgid "Support"
+msgstr "Support"
+
+#: modules/supsystic_promo/views/tpl/adminFooter.php:4
+msgid "Version"
+msgstr "Version"
+
+#: modules/supsystic_promo/controller.php:45
+msgid "Please enter valid email address"
+msgstr "Veuillez entrer un Email valide"
+
+#: modules/supsystic_promo/controller.php:39 classes/validator.php:71
+msgid "Please enter %s"
+msgstr "Veuillez entrer %s"
+
+#: modules/supsystic_promo/controller.php:39 classes/validator.php:78
+msgid "Please select %s"
+msgstr "SVP sélectionnez %s"
+
+#: modules/supsystic_promo/controller.php:23
+msgid "Please don't send contact requests so often - wait for response for your previous requests."
+msgstr "Merci de ne pas envoyer des demandes trop souvent - Veuillez attendre la réponse à vos demandes précédentes."
+
+#: modules/supsystic_promo/controller.php:7
+msgid "Information was saved. Thank you!"
+msgstr "Les informations ont été sauvegardées. Merci !"
+
+#: modules/supsystic_promo/mod.php:205
+msgid "Hello Supsystic Team!"
+msgstr "Bonjour l’équipe Supsystic !"
+
+#: modules/supsystic_promo/mod.php:205
+msgid "Message"
+msgstr "Message"
+
+#: modules/supsystic_promo/mod.php:203
+msgid "Other"
+msgstr "Autre"
+
+#: modules/supsystic_promo/mod.php:202
+msgid "Require a new functionallity"
+msgstr "Besoin d'une nouvelle fonctionnalité"
+
+#: modules/supsystic_promo/mod.php:201
+msgid "Report a bug"
+msgstr "Signaler un bug"
+
+#: modules/supsystic_promo/mod.php:200
+msgid "Plugin options"
+msgstr "Options de l'extension"
+
+#: modules/supsystic_promo/mod.php:199
+msgid "Topic"
+msgstr "Sujet"
+
+#: modules/supsystic_promo/mod.php:198
+msgid "Subject"
+msgstr "Sujet"
+
+#: modules/supsystic_promo/mod.php:197
+msgid "Website"
+msgstr "Site web"
+
+#: modules/supsystic_promo/mod.php:196
+msgid "Your email"
+msgstr "Votre email"
+
+#: modules/supsystic_promo/mod.php:195
+msgid "Your name"
+msgstr "Votre nom"
+
+#: modules/supsystic_promo/mod.php:125
+msgid "Welcome to Supsystic"
+msgstr "Bienvenue à Supsystic"
+
+#: modules/supsystic_promo/mod.php:99
+msgid "Featured Plugins"
+msgstr "Plugins intégrés"
+
+#: modules/supsystic_promo/mod.php:96
+msgid "Overview"
+msgstr "Vue d’ensemble"
+
+#: modules/supsystic_promo/mod.php:47
+msgid "Check out <a href=\"%s\" target=\"_blank\" class=\"button button-primary\" data-statistic-code=\"hide\">our other Plugins</a>! Years of experience in WordPress plugins developers made those list unbreakable!"
+msgstr "Découvrez <a href=\"%s\" target=\"_blank\" class=\"button button-primary\" data-statistic-code=\"hide\">nos autres Plugins</a>! Des années d'expérience dans les développeurs de plugins WordPress ont rendu cette liste incassable!"
+
+#: modules/supsystic_promo/mod.php:45
+msgid "Skip"
+msgstr "Ignorer"
+
+#: modules/supsystic_promo/mod.php:42
+msgid "<p>And today, if you want, - you can help us. This is really simple - you can just add small promo link to our site under your tables. This is small step for you, but a big help for us! Sure, if you don't want - just skip this and continue enjoy our software!</p>"
+msgstr "<p>Et aujourd'hui, si vous voulez, vous pouvez nous aider. C'est vraiment simple - vous pouvez simplement ajouter un petit lien promo à notre site sous vos tables. C'est un petit pas pour vous, mais une grande aide pour nous! Bien sûr, si vous ne voulez pas - il suffit de sauter cela et continuer à profiter de notre logiciel!</p>"
+
+#: modules/supsystic_promo/mod.php:41
+msgid "<p>On behalf of the entire <a href=\"https://supsystic.com/\" target=\"_blank\">supsystic.com</a> company I would like to thank you for been with us, and I really hope that our software helped you.</p>"
+msgstr "<p>Au nom de l'équipe de <a href=\"https://supsystic.com/\" target=\"_blank\">supsystic.com</a> , je tiens à vous remercier pour avoir été avec nous, et j’espère vraiment que notre logiciel vous a aidé.</p>"
+
+#: modules/supsystic_promo/mod.php:40
+msgid "<h3>More then eleven days with our %s plugin - Congratulations!</h3>"
+msgstr "<h3>Plus de onze jours avec notre plugin %s - félicitations !</h3>"
+
+#: modules/supsystic_promo/mod.php:39
+msgid "I already did"
+msgstr "Je l’ai déjà fait"
+
+#: modules/supsystic_promo/mod.php:38 modules/supsystic_promo/mod.php:44
+msgid "Nope, maybe later"
+msgstr "Non, peut-être plus tard"
+
+#: modules/supsystic_promo/mod.php:37 modules/supsystic_promo/mod.php:43
+msgid "Ok, you deserve it"
+msgstr "D'accord, vous le méritez"
+
+#: modules/supsystic_promo/mod.php:36
+msgid "<h3>Hey, I noticed you just use %s over a week – that’s awesome!</h3><p>Could you please do me a BIG favor and give it a 5-star rating on WordPress? Just to help us spread the word and boost our motivation.</p>"
+msgstr "<h3>Hey, j’ai remarqué que vous utilisiez %s depuis plus d’une semaine – c’est génial !</h3><p>Pourriez-vous, s’il vous plaît, me faire une grande faveur et lui donner une note de 5 étoiles sur WordPress ? Juste pour nous aider en nous motivant !!.</p>"

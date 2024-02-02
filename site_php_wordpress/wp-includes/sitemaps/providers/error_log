@@ -1,0 +1,12 @@
+[02-Apr-2023 10:54:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[02-Apr-2023 10:54:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[02-Apr-2023 10:54:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

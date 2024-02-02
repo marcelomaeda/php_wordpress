@@ -1,0 +1,1364 @@
+[08-Aug-2022 02:21:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Aug-2022 14:03:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Aug-2022 07:43:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Aug-2022 21:39:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Aug-2022 22:22:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Aug-2022 23:29:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Aug-2022 23:55:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Aug-2022 23:57:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 00:02:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 01:11:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 01:24:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 02:36:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 03:18:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 04:15:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 04:23:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 04:27:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 05:00:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 06:01:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 06:43:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 07:23:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 07:40:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 07:41:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 08:37:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 09:12:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 09:42:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 09:58:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 11:47:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 12:43:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 14:13:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 14:46:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 15:46:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 16:05:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 16:24:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 16:31:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Aug-2022 19:10:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 10:13:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 10:38:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 11:23:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 11:36:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 12:06:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 12:17:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 12:54:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 13:12:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 13:28:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 13:29:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 13:30:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 13:47:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 14:29:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 14:44:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 14:44:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 15:28:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 15:43:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 16:03:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 16:16:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 16:55:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 17:37:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 18:01:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 18:05:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 18:51:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 19:11:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 20:34:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 20:44:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Aug-2022 22:00:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Sep-2022 16:43:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[11-Sep-2022 19:24:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Sep-2022 21:05:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Sep-2022 22:06:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Sep-2022 15:38:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Sep-2022 18:18:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Sep-2022 04:30:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Sep-2022 21:44:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Sep-2022 15:45:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Sep-2022 23:54:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Sep-2022 00:26:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Sep-2022 03:02:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Sep-2022 04:53:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Sep-2022 06:30:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Sep-2022 09:08:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Sep-2022 09:39:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Sep-2022 11:00:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Sep-2022 14:30:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Sep-2022 09:26:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Sep-2022 12:41:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Sep-2022 15:57:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Sep-2022 18:09:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Sep-2022 20:57:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Sep-2022 21:08:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Sep-2022 22:48:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Sep-2022 23:11:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Sep-2022 23:40:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2022 00:06:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2022 00:15:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2022 01:02:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2022 01:28:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2022 01:47:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2022 02:16:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2022 02:19:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2022 02:27:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2022 02:40:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2022 02:47:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2022 03:13:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Sep-2022 03:22:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Oct-2022 03:40:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Nov-2022 21:19:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Nov-2022 21:46:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Nov-2022 22:11:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Nov-2022 22:31:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 06:50:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 08:38:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 10:24:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 11:46:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 12:04:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 12:18:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 15:34:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 15:47:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 15:56:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 16:36:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 17:34:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 17:49:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 17:54:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 18:02:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 18:07:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Nov-2022 02:14:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Nov-2022 17:43:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Nov-2022 12:53:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Nov-2022 23:16:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[15-Nov-2022 23:46:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 00:58:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 01:07:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 05:51:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 07:36:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 08:22:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 09:33:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 14:12:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 16:57:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 18:38:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 19:26:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 20:33:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 21:49:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 06:48:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 08:34:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 10:18:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 10:24:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 14:32:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 14:58:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 16:12:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 16:21:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 16:31:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 16:59:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 17:40:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 19:08:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Dec-2022 22:57:49 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Dec-2022 09:44:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Dec-2022 10:09:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Dec-2022 11:29:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Dec-2022 11:42:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Dec-2022 12:17:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Dec-2022 12:21:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Dec-2022 23:30:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Dec-2022 23:56:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Dec-2022 01:17:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Dec-2022 01:28:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Dec-2022 02:12:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[22-Dec-2022 02:17:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Dec-2022 03:22:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Dec-2022 03:43:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Dec-2022 05:10:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Dec-2022 05:13:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Dec-2022 05:46:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Dec-2022 05:53:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Jan-2023 09:12:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Jan-2023 10:08:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Jan-2023 12:19:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Jan-2023 14:25:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Jan-2023 15:28:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Jan-2023 17:15:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Jan-2023 17:49:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Jan-2023 18:57:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Jan-2023 19:11:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Jan-2023 06:48:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Jan-2023 07:01:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Jan-2023 12:20:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Jan-2023 13:20:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[03-Jan-2023 13:23:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jan-2023 12:49:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jan-2023 14:48:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jan-2023 17:23:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jan-2023 17:45:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jan-2023 18:03:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jan-2023 18:43:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jan-2023 19:34:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jan-2023 20:25:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Jan-2023 23:41:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Jan-2023 03:36:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Jan-2023 04:50:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Jan-2023 09:49:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Jan-2023 10:21:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Jan-2023 11:19:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[09-Jan-2023 13:26:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Jan-2023 22:26:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Jan-2023 22:26:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Feb-2023 03:40:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[13-Feb-2023 05:06:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 09:55:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 10:05:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 10:08:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 10:10:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 10:15:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 10:17:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 10:24:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 10:28:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 10:35:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 10:38:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 10:40:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 10:41:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 11:09:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 11:10:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 11:14:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 11:15:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 11:18:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 11:19:04 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 11:21:06 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Feb-2023 11:21:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2023 03:44:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2023 03:53:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2023 03:53:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2023 03:55:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2023 03:56:52 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2023 03:59:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2023 04:02:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2023 05:18:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2023 05:18:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2023 05:20:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2023 05:22:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2023 10:57:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-nav-menu-widget.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-nav-menu-widget.php on line 17
+[02-Apr-2023 10:57:43 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-archives.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-archives.php on line 17
+[02-Apr-2023 10:57:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[02-Apr-2023 10:57:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-calendar.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-calendar.php on line 17
+[02-Apr-2023 10:57:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-categories.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-categories.php on line 17
+[02-Apr-2023 10:57:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-custom-html.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-custom-html.php on line 17
+[02-Apr-2023 10:58:00 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-links.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-links.php on line 17
+[02-Apr-2023 10:58:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-media-audio.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-media-audio.php on line 18
+[02-Apr-2023 10:58:05 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-media-gallery.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-media-gallery.php on line 18
+[02-Apr-2023 10:58:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-media-image.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-media-image.php on line 18
+[02-Apr-2023 10:58:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget_Media' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-media-video.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-media-video.php on line 18
+[02-Apr-2023 10:58:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-media.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-media.php on line 17
+[02-Apr-2023 10:58:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-meta.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-meta.php on line 19
+[02-Apr-2023 10:58:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-pages.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-pages.php on line 17
+[02-Apr-2023 10:58:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-recent-comments.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-recent-comments.php on line 17
+[02-Apr-2023 10:58:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-recent-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-recent-posts.php on line 17
+[02-Apr-2023 10:58:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-rss.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-rss.php on line 17
+[02-Apr-2023 10:58:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-search.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-search.php on line 17
+[02-Apr-2023 10:58:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[02-Apr-2023 10:58:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-text.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-text.php on line 17
+[05-Apr-2023 23:24:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Apr-2023 23:24:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Apr-2023 23:33:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Apr-2023 23:51:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Apr-2023 23:52:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Apr-2023 00:35:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Apr-2023 01:08:56 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Apr-2023 01:10:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Apr-2023 01:12:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Apr-2023 10:35:27 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Apr-2023 13:44:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Nov-2023 23:05:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Nov-2023 23:06:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Nov-2023 23:43:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Nov-2023 23:54:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Nov-2023 23:56:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 00:06:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 00:12:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 00:12:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 00:25:30 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 00:37:09 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 00:38:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 00:42:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 00:47:38 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 00:58:36 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 01:00:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 01:01:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 01:06:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 01:16:45 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 01:20:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 01:51:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 01:59:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 02:04:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2023 02:09:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Dec-2023 01:16:37 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Dec-2023 01:20:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Dec-2023 01:26:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Dec-2023 01:27:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Dec-2023 01:31:48 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Dec-2023 01:32:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[23-Dec-2023 01:33:26 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 00:45:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 00:48:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 00:50:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:00:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:00:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:00:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:03:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:10:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:10:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:32:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:35:35 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:37:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:38:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:40:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:40:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:44:58 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:47:14 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:47:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:47:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:48:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:51:02 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:51:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:51:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:54:20 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 01:56:33 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[25-Dec-2023 02:01:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 03:59:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 04:03:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 04:09:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 04:19:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 04:23:01 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 04:23:34 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 04:29:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 04:32:07 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 04:44:40 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 04:49:17 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 04:54:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 05:13:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 05:21:53 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 05:24:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 05:29:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 05:35:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 05:36:03 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 05:56:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 06:06:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17
+[21-Jan-2024 07:39:50 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/widgets/class-wp-widget-block.php on line 17

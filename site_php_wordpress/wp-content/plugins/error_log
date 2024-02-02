@@ -1,0 +1,12 @@
+[02-Sep-2023 06:35:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/demoweb/public_html/solutions/sitewp/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-content/plugins/hello.php on line 69
+[09-Sep-2023 20:13:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/demoweb/public_html/solutions/sitewp/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-content/plugins/hello.php on line 69
+[09-Sep-2023 21:15:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/demoweb/public_html/solutions/sitewp/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-content/plugins/hello.php on line 69

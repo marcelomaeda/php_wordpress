@@ -1,0 +1,144 @@
+[10-Jan-2023 22:12:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-grid-posts.php on line 9
+[10-Jan-2023 22:12:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-grid-posts.php on line 9
+[10-Jan-2023 22:12:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[10-Jan-2023 22:12:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[10-Jan-2023 22:12:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-medium-posts.php on line 9
+[10-Jan-2023 22:12:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-medium-posts.php on line 9
+[10-Jan-2023 22:12:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-offset-posts.php on line 9
+[10-Jan-2023 22:12:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-offset-posts.php on line 9
+[10-Jan-2023 22:12:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-small-posts.php on line 9
+[10-Jan-2023 22:12:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-small-posts.php on line 9
+[10-Jan-2023 22:12:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-standard-posts.php on line 9
+[10-Jan-2023 22:13:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-standard-posts.php on line 9
+[10-Jan-2023 22:13:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[10-Jan-2023 22:13:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[02-Apr-2023 10:43:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-grid-posts.php on line 9
+[02-Apr-2023 10:43:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[02-Apr-2023 10:43:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-medium-posts.php on line 9
+[02-Apr-2023 10:43:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-offset-posts.php on line 9
+[02-Apr-2023 10:43:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-small-posts.php on line 9
+[02-Apr-2023 10:43:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-standard-posts.php on line 9
+[02-Apr-2023 10:43:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[01-Jan-2024 13:08:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-grid-posts.php on line 9
+[01-Jan-2024 13:08:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-grid-posts.php on line 9
+[01-Jan-2024 13:08:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-medium-posts.php on line 9
+[01-Jan-2024 13:08:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-medium-posts.php on line 9
+[01-Jan-2024 13:08:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-offset-posts.php on line 9
+[01-Jan-2024 13:08:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-offset-posts.php on line 9
+[01-Jan-2024 13:08:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-small-posts.php on line 9
+[01-Jan-2024 13:08:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-small-posts.php on line 9
+[16-Jan-2024 07:37:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-grid-posts.php on line 9
+[16-Jan-2024 07:37:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[16-Jan-2024 07:37:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-medium-posts.php on line 9
+[16-Jan-2024 07:37:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-offset-posts.php on line 9
+[16-Jan-2024 07:38:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-small-posts.php on line 9
+[16-Jan-2024 07:38:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/query-standard-posts.php on line 9
+[16-Jan-2024 07:38:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/block-patterns/social-links-shared-background-color.php on line 9

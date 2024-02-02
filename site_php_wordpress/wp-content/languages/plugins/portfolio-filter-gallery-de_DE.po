@@ -1,0 +1,624 @@
+# Translation of Plugins - Portfolio Gallery &#8211; Image Gallery Plugin - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Portfolio Gallery &#8211; Image Gallery Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-01-07 21:05:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Portfolio Gallery &#8211; Image Gallery Plugin - Stable (latest release)\n"
+
+#: filter-gallery-settings.php:624
+msgid "LD Light Box (Works on filtred group images)"
+msgstr "LD Light Box (funktioniert auf gefilterten Bilder-Gruppen)"
+
+#: filter-gallery-settings.php:256
+msgid "Columns On Phone Portrait"
+msgstr "Spalten auf Telefon-Hochformat"
+
+#: filter-gallery-settings.php:234
+msgid "Columns On Phone Landscape"
+msgstr "Spalten auf Telefon-Querformat"
+
+#: filter-gallery-settings.php:362
+msgid "Title on thumbnail"
+msgstr "Titel des Vorschaubilds"
+
+#: filter-gallery-settings.php:613
+msgid "You can change or disable lightbox for gallery"
+msgstr "Du kannst die Lightbox für die Galerie ändern oder deaktivieren"
+
+#: filter-gallery-settings.php:594
+msgid "Filter title color"
+msgstr "Farbe des Titels filtern"
+
+#: filter-gallery-settings.php:580
+msgid "Filter background color"
+msgstr "Hintergrundfarbe des Filters"
+
+#: filter-gallery-settings.php:559
+msgid "Show search"
+msgstr "Suche anzeigen"
+
+#: filter-gallery-settings.php:521
+msgid "Sort filter in alphabet order"
+msgstr "Filter alphabetisch sortieren"
+
+#: filter-gallery-settings.php:487
+msgid "Hide Filters"
+msgstr "Filter verbergen"
+
+#: filter-gallery-settings.php:443
+msgid "Open image link URL"
+msgstr "Bild-Link-URL öffnen"
+
+#: filter-gallery-settings.php:422
+msgid "Image sort by title"
+msgstr "Bilder nach Titel sortieren"
+
+#: filter-gallery-settings.php:402
+msgid "Image gray scale"
+msgstr "Bild-Grauverlauf"
+
+#: filter-gallery-settings.php:235
+msgid "Set columns for tablets"
+msgstr "Spalten für Tablets einstellen"
+
+#: filter-gallery-settings.php:212
+msgid "Set columns for desktops"
+msgstr "Spalten für Desktops einstellen"
+
+#: filter-gallery-settings.php:189 filter-gallery-settings.php:257
+msgid "Set columns for large desktops"
+msgstr "Spalten für große Desktops einstellen"
+
+#: filter-gallery-settings.php:558
+msgid "Search Box"
+msgstr "Suchfeld"
+
+#: filter-gallery-settings.php:550
+msgid "Left"
+msgstr "Links"
+
+#: filter-gallery-settings.php:549
+msgid "Center"
+msgstr "Zentriert"
+
+#: filter-gallery-settings.php:548
+msgid "Right"
+msgstr "Rechts"
+
+#: filter-gallery-settings.php:541
+msgid "Choose filters position"
+msgstr "Wähle die Position der Filter"
+
+#: filter-gallery-settings.php:540
+msgid "Filters Position"
+msgstr "Position der Filter"
+
+#: filter-gallery-settings.php:520
+msgid "Sort Filter In Alphabet Order"
+msgstr "Filter alphabetisch sortieren"
+
+#: filter-gallery-settings.php:507
+msgid "Text for \"All\" filter"
+msgstr "Text für „Alle“-Filter"
+
+#: filter-gallery-settings.php:506
+msgid "Text For \"All\" Filter"
+msgstr "Text für „Alle“-Filter"
+
+#: filter-gallery-settings.php:480
+msgid "Filters Settings"
+msgstr "Filter-Einstellungen"
+
+#: filter-gallery-settings.php:463
+msgid "You can disable bootstrap js for output if you have problem with it."
+msgstr "Du kannst Bootstrap JS deaktivieren, falls du damit Probleme hast."
+
+#: filter-gallery-settings.php:462
+msgid "Disable Bootstrap JS for Output"
+msgstr "Bootstrap JS für Ausgabe deaktivieren"
+
+#: filter-gallery-settings.php:453
+msgid "Same Tab"
+msgstr "Gleicher Tab"
+
+#: filter-gallery-settings.php:451
+msgid "New Tab"
+msgstr "Neuer Tab"
+
+#: filter-gallery-settings.php:432
+msgid "DESC"
+msgstr "ABST."
+
+#: filter-gallery-settings.php:430
+msgid "ASC"
+msgstr "AUFST."
+
+#: filter-gallery-settings.php:421
+msgid "Image Sort by Title"
+msgstr "Bilder nach Titel sortieren"
+
+#: filter-gallery-settings.php:343
+msgid "You can remove thumbnails spacing"
+msgstr "Du kannst den Abstand der Vorschaubilder entfernen"
+
+#: filter-gallery-settings.php:324
+msgid "You can remove image border"
+msgstr "Du kannst den Rahmen des Bildes entfernen"
+
+#: filter-gallery-settings.php:323
+msgid "Thumbnail Border"
+msgstr "Vorschaubild-Rahmen"
+
+#: filter-gallery-settings.php:290
+msgid "Ltr"
+msgstr "LTR"
+
+#: filter-gallery-settings.php:288
+msgid "Rtl"
+msgstr "RTL"
+
+#: filter-gallery-settings.php:280
+msgid "Change direction for RTL site"
+msgstr "Richtung für RTL-Website ändern"
+
+#: filter-gallery-settings.php:279
+msgid "Gallery Direction"
+msgstr "Galerie-Richtung"
+
+#: filter-gallery-settings.php:640
+msgid "Apply your own custom CSS. Don\"t use style tag"
+msgstr "Dein individuelles CSS anwenden. Benutze kein Style-Tag"
+
+#: filter-gallery-settings.php:488
+msgid "Hide filters"
+msgstr "Filter verbergen"
+
+#: filter-gallery-settings.php:58 filter-gallery-settings.php:634
+#: filter-gallery-settings.php:639
+msgid "Custom CSS"
+msgstr "Individuelles CSS"
+
+#: portfolio-filter-gallery.php:192
+msgid "Update Old Settings"
+msgstr "Alte Einstellungen aktualisieren"
+
+#: filter-gallery-settings.php:201 filter-gallery-settings.php:224
+#: filter-gallery-settings.php:247
+msgid "6 Column"
+msgstr "6 Spalten"
+
+#: filter-gallery-settings.php:200 filter-gallery-settings.php:223
+#: filter-gallery-settings.php:246 filter-gallery-settings.php:268
+msgid "4 Column"
+msgstr "4 Spalten"
+
+#: filter-gallery-settings.php:198 filter-gallery-settings.php:221
+#: filter-gallery-settings.php:244 filter-gallery-settings.php:266
+msgid "2 Column"
+msgstr "2 Spalten"
+
+#: filter-gallery-settings.php:197 filter-gallery-settings.php:220
+#: filter-gallery-settings.php:243 filter-gallery-settings.php:265
+msgid "1 Column"
+msgstr "1 Spalte"
+
+#: portfolio-filter-gallery.php:285
+msgid "Shortcode copied to clipboard!"
+msgstr "Shortcode in die Zwischenablage kopiert!"
+
+#: portfolio-filter-gallery.php:264
+msgid "Please Rate Us"
+msgstr "Bitte bewerte uns"
+
+#: portfolio-filter-gallery.php:253
+msgid "on WordPress"
+msgstr "auf WordPress"
+
+#: portfolio-filter-gallery.php:253
+msgid "Rate us"
+msgstr "Bewerte uns"
+
+#: portfolio-filter-gallery.php:253
+msgid "If you like our plugin then please"
+msgstr "Falls du dieses Plugin magst, dann"
+
+#: portfolio-filter-gallery.php:247
+msgid "Live Demo"
+msgstr "Live-Demo"
+
+#: filter-gallery-settings.php:698
+msgid "Try Our Other Free Plugins:"
+msgstr "Sieh dir unsere anderen kostenlosen Plugins an:"
+
+#: filter-gallery-settings.php:690
+msgid "For $149 Only"
+msgstr "Für nur $149"
+
+#: filter-gallery-settings.php:690
+msgid "$399"
+msgstr "$399"
+
+#: filter-gallery-settings.php:689
+msgid "Get All Premium Plugin ( Personal Licence) in just $149"
+msgstr "Erhalte alle Premium-Plugins (Persönliche Lizenz) für nur $149"
+
+#: filter-gallery-settings.php:688
+msgid "Plugins Bale Offer"
+msgstr "Pluginpaket-Angebot"
+
+#: filter-gallery-settings.php:660 filter-gallery-settings.php:671
+#: filter-gallery-settings.php:682
+msgid "Try Admin Demo"
+msgstr "Admin-Demo ausprobieren"
+
+#: filter-gallery-settings.php:659 filter-gallery-settings.php:670
+#: filter-gallery-settings.php:681
+msgid "Check Live Demo"
+msgstr "Live Demo ansehen"
+
+#: filter-gallery-settings.php:658 filter-gallery-settings.php:669
+#: filter-gallery-settings.php:680
+msgid "Buy Premium Version"
+msgstr "Premium-Version kaufen"
+
+#: filter-gallery-settings.php:655 filter-gallery-settings.php:666
+msgid "Pro Feature"
+msgstr "Pro-Funktion"
+
+#: filter-gallery-settings.php:612
+msgid "Enable Lightbox"
+msgstr "Lightbox aktivieren"
+
+#: filter-gallery-settings.php:606
+msgid "LightBox Configuration"
+msgstr "LightBox-Konfiguration"
+
+#: filter-gallery-settings.php:593
+msgid "Filter Title Color"
+msgstr "Farbe des Titels filtern"
+
+#: filter-gallery-settings.php:300
+msgid "Choose Image Hover Effect"
+msgstr "Effekt bei Mauszeigerkontakt wählen"
+
+#: filter-gallery-settings.php:202
+msgid "12 Columns"
+msgstr "12 Spalten"
+
+#: filter-gallery-settings.php:168
+msgid "Choose gallery thumbnail size"
+msgstr "Größe des Galerie-Vorschaubilds wählen"
+
+#: filter-gallery-settings.php:167
+msgid "Gallery Thumbnail Size"
+msgstr "Galerie-Vorschaubildgröße"
+
+#: filter-gallery-settings.php:160
+msgid "Configuration"
+msgstr "Konfiguration"
+
+#: filter-gallery-settings.php:120 portfolio-filter-gallery.php:327
+msgid "Video"
+msgstr "Video"
+
+#: filter-gallery-settings.php:119 portfolio-filter-gallery.php:326
+msgid "Image"
+msgstr "Bild"
+
+#: filter-gallery-settings.php:79
+msgid "menu link."
+msgstr "Menü-Link."
+
+#: filter-gallery-settings.php:79
+msgid "FILTERS"
+msgstr "FILTER"
+
+#: filter-gallery-settings.php:79
+msgid "First add filters for images by click on"
+msgstr "Füge zuerst Filter für Bilder hinzu durch Klick auf"
+
+#: filter-gallery-settings.php:68 portfolio-filter-gallery.php:248
+msgid "Upgrade To Pro"
+msgstr "Upgrade auf Pro"
+
+#: filter-gallery-settings.php:64
+msgid "Load More"
+msgstr "Mehr laden"
+
+#: filter-gallery-settings.php:61
+msgid "Layouts"
+msgstr "Layouts"
+
+#: filter-gallery-settings.php:55
+msgid "LightBox"
+msgstr "Lightbox"
+
+#: filter-gallery-settings.php:49
+msgid "Config"
+msgstr "Konfiguration"
+
+#: filter-gallery-settings.php:46 filter-gallery-settings.php:75
+msgid "Photos"
+msgstr "Fotos"
+
+#: filter-gallery-settings.php:35
+msgid "ADD IMAGES"
+msgstr "BILDER HINZUFÜGEN"
+
+#: portfolio-filter-gallery.php:242
+msgid "Copy Shortcode"
+msgstr "Shortcode kopieren"
+
+#: portfolio-filter-gallery.php:242
+msgid "pfg-shortcode"
+msgstr "PFG-Shortcode"
+
+#: portfolio-filter-gallery.php:153
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#. Author of the plugin
+msgid "A WP Life"
+msgstr "A WP Life"
+
+#. Description of the plugin
+msgid "Portfolio Filter Gallery For WordPress."
+msgstr "Portfolio-Filter-Galerie für WordPress."
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://awplife.com/"
+msgstr "http://awplife.com/"
+
+#: portfolio-filter-gallery.php:286
+msgid "Copy & Embed shortcode into any Page/ Post / Text Widget to display your image gallery on site."
+msgstr "Kopiere den Shortcode auf eine beliebige Seite/Beitrag/Text-Widget, um deine Bildergalerie auf deiner Website anzuzeigen."
+
+#: filter-gallery-settings.php:82
+msgid "Delete All Images"
+msgstr "Alle Bilder löschen"
+
+#: filter-gallery-settings.php:80
+msgid "Please do not reapeat images. Use control ( Ctrl ) or shift ( Shift ) key for select multiple filters. For unselect filters use ( Ctrl ) key."
+msgstr "Bitte wiederhole keine Bilder. Benutze die Strg- oder Shift-Taste, um mehrere Filter auszuwählen. Benutze die Strg-Taste zum Abwählen."
+
+#: portfolio-filter-gallery.php:241
+msgid "Rate Our Plugin"
+msgstr "Unser Plugin bewerten"
+
+#: portfolio-filter-gallery.php:240
+msgid "Upgrade Portfolio Gallery Pro"
+msgstr "Portfolio Gallery Pro Upgrade installieren"
+
+#: portfolio-filter-gallery.php:239
+msgid "Add Portfolio Filter Gallery"
+msgstr "Portfolio-Filter-Galerie hinzufügen"
+
+#: portfolio-filter-gallery.php:217
+msgid "Custom Post Type For Portfolio Filter Gallery"
+msgstr "Individueller Inhaltstyp für Portfolio-Filter-Galerie"
+
+#: portfolio-filter-gallery.php:213
+msgid "Portfolio Filter Gallery Not found in Trash"
+msgstr "Portfolio-Filter-Galerie nicht im Papierkorb gefunden"
+
+#: portfolio-filter-gallery.php:212
+msgid "Portfolio Filter Gallery Not found"
+msgstr "Portfolio-Filter-Galerie nicht gefunden"
+
+#: portfolio-filter-gallery.php:211
+msgid "Search Portfolio Filter Gallery"
+msgstr "Portfolio-Filter-Galerie durchsuchen"
+
+#: portfolio-filter-gallery.php:210
+msgid "Update Portfolio Filter Gallery"
+msgstr "Portfolio-Filter-Galerie aktualisieren"
+
+#: portfolio-filter-gallery.php:209
+msgid "Edit Portfolio Filter Gallery"
+msgstr "Portfolio-Filter-Galerie bearbeiten"
+
+#: portfolio-filter-gallery.php:208
+msgid "New Portfolio Filter Gallery"
+msgstr "Neue Portfolio-Filter-Galerie"
+
+#: portfolio-filter-gallery.php:206 portfolio-filter-gallery.php:207
+msgid "Add New Gallery"
+msgstr "Neue Galerie hinzufügen"
+
+#: portfolio-filter-gallery.php:205
+msgid "All Gallery"
+msgstr "Alle Galerien"
+
+#: portfolio-filter-gallery.php:204
+msgid "Parent Item:"
+msgstr "Übergeordnetes Element:"
+
+#: portfolio-filter-gallery.php:203
+msgid "Portfolio Filter"
+msgstr "Portfolio-Filter"
+
+#: portfolio-filter-gallery.php:202
+msgid "Portfolio Gallery"
+msgstr "Portfolio-Galerie"
+
+#: portfolio-filter-gallery.php:201
+msgctxt "Post Type Singular Name"
+msgid "Portfolio Filter Gallery"
+msgstr "Portfolio-Filter-Galerie"
+
+#: portfolio-filter-gallery.php:200
+msgctxt "Post Type General Name"
+msgid "Portfolio Filter Gallery"
+msgstr "Portfolio-Filter-Galerie"
+
+#: portfolio-filter-gallery.php:195
+msgid "Docs"
+msgstr "Dokumentation"
+
+#: filter-gallery-settings.php:52 portfolio-filter-gallery.php:194
+msgid "Filters"
+msgstr "Filter"
+
+#. Plugin Name of the plugin
+#: portfolio-filter-gallery.php:29 portfolio-filter-gallery.php:216
+msgid "Portfolio Filter Gallery"
+msgstr "Portfolio Filter Gallery"
+
+#: filters.php:259 filters.php:264
+msgid "Update Category"
+msgstr "Kategorie aktualisieren"
+
+#: filters.php:89 filters.php:237
+msgid "You can only add 5 category in free version for more upgrade to our pro version"
+msgstr "Du kannst in der kostenlosen Version nur 5 Kategorien hinzufügen, für mehr erwirb die Pro-Version"
+
+#: filters.php:48 filters.php:196 filters.php:293
+msgid "Action"
+msgstr "Aktion"
+
+#: filters.php:47 filters.php:195 filters.php:292
+msgid "Category Name"
+msgstr "Kategoriename"
+
+#: filters.php:32
+msgid "Add Category"
+msgstr "Kategorie hinzufügen"
+
+#: filters.php:29
+msgid "Type Category Name"
+msgstr "Kategorienamen eingeben"
+
+#: filters.php:23 filters.php:27
+msgid "Add New Category"
+msgstr "Neue Kategorie hinzufügen"
+
+#: gallery-content.php:207
+msgid "Sorry! No image gallery found "
+msgstr "Entschuldigung, keine Bildergalerie gefunden"
+
+#: filter-gallery-settings.php:442
+msgid "Open Image Link URL"
+msgstr "Bild-Link-URL öffnen"
+
+#: filter-gallery-settings.php:342
+msgid "Hide Thumbnails Spacing"
+msgstr "Vorschaubild-Abstand verbergen"
+
+#: filter-gallery-settings.php:381
+msgid "Show numbering on thumbnails"
+msgstr "Nummerierung bei Vorschaubildern anzeigen"
+
+#: filter-gallery-settings.php:380
+msgid "Show Numbering On Thumbnails"
+msgstr "Nummerierung bei Vorschaubildern anzeigen"
+
+#: filter-gallery-settings.php:372
+msgid "Hide"
+msgstr "Verbergen"
+
+#: filter-gallery-settings.php:370
+msgid "Show"
+msgstr "Anzeigen"
+
+#: filter-gallery-settings.php:361
+msgid "Title On Thumbnail"
+msgstr "Titel des Vorschaubilds"
+
+#: filter-gallery-settings.php:334 filter-gallery-settings.php:353
+#: filter-gallery-settings.php:391 filter-gallery-settings.php:412
+#: filter-gallery-settings.php:434 filter-gallery-settings.php:473
+#: filter-gallery-settings.php:498 filter-gallery-settings.php:532
+#: filter-gallery-settings.php:569
+msgid "No"
+msgstr "Nein"
+
+#: filter-gallery-settings.php:332 filter-gallery-settings.php:351
+#: filter-gallery-settings.php:389 filter-gallery-settings.php:410
+#: filter-gallery-settings.php:471 filter-gallery-settings.php:496
+#: filter-gallery-settings.php:530 filter-gallery-settings.php:567
+msgid "Yes"
+msgstr "Ja"
+
+#: filter-gallery-settings.php:401
+msgid "Image Gray Scale (Gray Effect)"
+msgstr "Bild-Grauverlauf (Grau-Effekt)"
+
+#: filter-gallery-settings.php:579
+msgid "Filter Background Color"
+msgstr "Hintergrundfarbe des Filters"
+
+#: filter-gallery-settings.php:623
+msgid "Bootstrap Light Box"
+msgstr "Bootstrap Light Box"
+
+#: filter-gallery-settings.php:314
+msgid "Box Shadow Inset"
+msgstr "Box-Schatten-Innen"
+
+#: filter-gallery-settings.php:313
+msgid "Box Shadow Outset"
+msgstr "Box-Schatten-Außen"
+
+#: filter-gallery-settings.php:312
+msgid "Glow"
+msgstr "Glühen"
+
+#: filter-gallery-settings.php:311
+msgid "Float Shadow"
+msgstr "Fließender Schatten"
+
+#: filter-gallery-settings.php:310
+msgid "Grow Shadow"
+msgstr "Wachsender Schatten"
+
+#: filter-gallery-settings.php:299
+msgid "Image Hover Effects"
+msgstr "Bildeffekte bei Mauszeigerkontakt"
+
+#: filter-gallery-settings.php:309 filter-gallery-settings.php:622
+msgid "None"
+msgstr "Kein"
+
+#: filter-gallery-settings.php:211
+msgid "Columns On Tablet"
+msgstr "Spalten auf Tablet"
+
+#: filter-gallery-settings.php:188
+msgid "Columns On Desktops"
+msgstr "Spalten auf Desktops"
+
+#: filter-gallery-settings.php:199 filter-gallery-settings.php:222
+#: filter-gallery-settings.php:245 filter-gallery-settings.php:267
+msgid "3 Column"
+msgstr "3 Spalten"
+
+#: filter-gallery-settings.php:225
+msgid "12 Column"
+msgstr "12 Spalten"
+
+#: filter-gallery-settings.php:184
+msgid "Columns Settings"
+msgstr "Spalten-Einstellungen"
+
+#: filter-gallery-settings.php:178
+msgid "Full Size - 1280 x 720"
+msgstr "Volle Größe - 1280 x 720"
+
+#: filter-gallery-settings.php:177
+msgid "Large - 840 x 473"
+msgstr "Groß - 840 x 473"
+
+#: filter-gallery-settings.php:176
+msgid "Medium - 300 x 169"
+msgstr "Mittel - 300 x 169"
+
+#: filter-gallery-settings.php:175
+msgid "Thumbnail - 150 x 150"
+msgstr "Vorschaubild - 150 x 150"

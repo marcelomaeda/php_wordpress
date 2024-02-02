@@ -1,0 +1,88 @@
+[02-Apr-2023 10:40:41 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/DB.php on line 50
+[02-Apr-2023 10:40:43 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/File.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/File.php on line 50
+[02-Apr-2023 10:40:46 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[02-Apr-2023 10:40:50 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[02-Apr-2023 10:40:52 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[02-Apr-2023 10:40:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Redis.php on line 27
+[01-Jan-2024 13:09:56 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/DB.php on line 50
+[01-Jan-2024 13:10:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/DB.php on line 50
+[01-Jan-2024 13:10:02 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[01-Jan-2024 13:10:05 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[01-Jan-2024 13:10:07 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[01-Jan-2024 13:10:10 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[01-Jan-2024 13:10:12 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[01-Jan-2024 13:10:16 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[01-Jan-2024 13:10:19 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Redis.php on line 27
+[01-Jan-2024 13:10:22 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Redis.php on line 27
+[16-Jan-2024 07:30:53 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/DB.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/DB.php on line 50
+[16-Jan-2024 07:31:00 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/File.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/File.php on line 50
+[16-Jan-2024 07:31:12 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcache.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcache.php on line 57
+[16-Jan-2024 07:31:21 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcached.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Memcached.php on line 58
+[16-Jan-2024 07:31:30 UTC] PHP Fatal error:  Uncaught Error: Class 'SimplePie_Cache_DB' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/MySQL.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/MySQL.php on line 56
+[16-Jan-2024 07:31:37 UTC] PHP Fatal error:  Uncaught Error: Interface 'SimplePie_Cache_Base' not found in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Redis.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/demoweb/public_html/solutions/sitewp/wp-includes/SimplePie/Cache/Redis.php on line 27
